@@ -14,3 +14,22 @@ The sources we are analyzing are Reddit, news sources, as well as written statem
 We plan to run our model on multiple companies in several sectors including tech, finance, and energy.
 Usign stock and sentiment data, we would utilize both random forest and neural net models to predict a multi-class returns category.
 Finally, we will use these classifications as our entry and exit signals to our trading strategy. 
+## Sectors/Companies we are looking at:
+- Technology
+  - Netflix (NFLX)
+  - Facebook/Meta (FB)
+  - Uber (UBER)
+  - Microchip Technology (MCHP)
+  - AirBnB (ABNB)
+- Energy
+  - Diamondback Energy Inc. (FANG)
+  - Marathon Oil Corp. (MRO)
+  - Devon Energy Corp. (DVN)
+  - SunPower Corp. (SPWR)
+  - Renewable Energy Group Inc. (REGI)
+- Finance
+  - McKinsey & Company (MTRX)
+  - BlackRock (BLK)
+  - PayPal (PYPL)
+  - Mercadolibre Inc (MELI)
+  - SoFi (SOFI)
