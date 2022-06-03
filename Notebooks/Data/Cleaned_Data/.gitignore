@@ -1,7 +1,7 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,windows,jupyternotebooks,pythonvanilla
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,windows,jupyternotebooks,pythonvanilla
-
+sec_df.csv
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
