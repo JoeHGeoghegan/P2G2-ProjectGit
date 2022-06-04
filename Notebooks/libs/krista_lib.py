@@ -39,3 +39,11 @@ def form_df(keywords):
             pass
     
     return pd.DataFrame(articles)
+
+
+#Code that counts number of articles present about a topic
+def news_density(keywords):
+    count = 0 
+    for dict in get_news(keywords)['articles']:
+        count += 1
+    return count
