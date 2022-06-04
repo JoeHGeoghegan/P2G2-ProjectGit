@@ -47,3 +47,46 @@ def make_tickers_df(ticker_list, start_date_str, end_date_str, tradeapi):
 
 def make_tickers_dict(ticker_list, start_date_str, end_date_str, tradeapi):
     return {ticker: get_daily_trade_data(ticker, start_date_str, end_date_str, tradeapi) for ticker in ticker_list}
+
+
+# making a dataframe using news api
+
+company_df = pd.read_csv('./Data/Cleaned_Data/Ticker_library.csv')
+company_df = company_df.rename(columns={'Company Name': 'Company_Name'})
+company_dict = dict(zip(company_df.Company_Name, company_df.Ticker))
+company_list = list(company_dict.keys())
+
+api_key = os.getenv("NEWSAPI_KEY")
+
+newsapi = NewsApiClient(api_key=api_key)
+
+#Get news articles on certain topic based on keywords
+def get_news(keywords):  
+    news_article = newsapi.get_everything(
+            q = keywords, language='en', sort_by= 'relevancy'
+    )
+    return news_article
+
+#Creates dataframe of the articles chosen 
+def form_df(keywords):
+    news = get_news(keywords)['articles']
+
+    articles = []
+    for article in news:
+        try:
+            title = article['title']
+            description = article['description']
+            text = article['content']
+            date = article['publishedAt'][:10]
+
+            articles.append({
+                'title' : title,
+                'description' : description,
+                'text' : text,
+                'date' : date,
+                'language' : 'en'
+            })
+        except AttributeError:
+            pass
+    
+    return pd.DataFrame(articles)
