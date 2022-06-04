@@ -1,13 +1,17 @@
 import os
 import requests
 import pandas as pd
-from dotenv import load_dotenv
 import datetime as dt
 import alpaca_trade_api as tradeapi
 import json
 from alpaca_trade_api.rest import REST, TimeFrame
+from newsapi import NewsApiClient
+from dotenv import load_dotenv
 load_dotenv()
 
+api_key = os.getenv("NEWSAPI_KEY")
+
+newsapi = NewsApiClient(api_key=api_key)
 
 
 # get ohlcv data for individual stock with alpaca api call and make into a dataframe
@@ -73,20 +77,44 @@ def form_df(keywords):
 
     articles = []
     for article in news:
-        try:
-            title = article['title']
-            description = article['description']
-            text = article['content']
-            date = article['publishedAt'][:10]
 
+        try:
+            date = article['publishedAt'][:10]
+            text = article['content']
+            ticker = company_dict[keywords]
             articles.append({
-                'title' : title,
-                'description' : description,
-                'text' : text,
                 'date' : date,
-                'language' : 'en'
+                'ticker': ticker,
+                'text' : text,
             })
         except AttributeError:
             pass
     
     return pd.DataFrame(articles)
+
+
+# Vader Analyzer
+
+from newsapi import NewsApiClient
+import nltk
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+
+nltk.download('vader_lexicon')
+
+analyzer = SentimentIntensityAnalyzer()
+
+def vader_analyzer(df):
+    analyzer = SentimentIntensityAnalyzer()
+    df['compound'] = [analyzer.polarity_scores(x)['compound'] for x in df['text']]
+    df['neg'] = [analyzer.polarity_scores(x)['neg'] for x in df['text']]
+    df['neu'] = [analyzer.polarity_scores(x)['neu'] for x in df['text']]
+    df['pos'] = [analyzer.polarity_scores(x)['pos'] for x in df['text']]
+
+    df['date'] = pd.to_datetime(
+    df['date'],
+    infer_datetime_format = True,
+    utc = True    
+    )
+    df['date'] = df['date'].dt.date
+    
+    return df
