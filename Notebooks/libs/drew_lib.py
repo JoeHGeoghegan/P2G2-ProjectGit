@@ -32,11 +32,13 @@ def get_daily_trade_data(ticker, start_date_str, end_date_str, tradeapi):
 
 # create a dataframe of closing prices and ticker symbols from a list of ticker symbols
 
+ticker_list = pd.read_csv('./Data/Cleaned_Data/Ticker_library.csv')['Ticker'].to_list()
+
 def make_tickers_df(ticker_list, start_date_str, end_date_str, tradeapi):
     ticker_dfs_list = [get_daily_trade_data(ticker, start_date_str, end_date_str, tradeapi) for ticker in ticker_list]
     tickers_df = pd.concat(ticker_dfs_list, axis=0, join='outer')
-    tickers_df = tickers_df[['symbol','close']].reset_index().rename(columns={'timestamp':'date'}).set_index('date')
     tickers_df.index = tickers_df.index.date
+    tickers_df = tickers_df[['ticker','close','volume']]
     return tickers_df
 
 
