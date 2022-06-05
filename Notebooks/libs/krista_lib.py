@@ -4,6 +4,17 @@ import pandas as pd
 from newsapi import NewsApiClient
 from dotenv import load_dotenv
 load_dotenv()
+from collections import Counter
+from nltk.corpus import reuters, stopwords
+from nltk.util import ngrams
+from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.stem import WordNetLemmatizer
+import re
+import nltk
+nltk.download('reuters')
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
 
 api_key = os.getenv("NEWSAPI_KEY")
 
@@ -47,3 +58,27 @@ def news_density(keywords):
     for dict in get_news(keywords)['articles']:
         count += 1
     return count
+
+#Tokenizer function
+def tokenizer(text):
+    """Tokenizes text."""
+    
+    # Remove the punctuation from text
+    regex = re.compile("[^a-zA-Z ]")
+    re_clean = regex.sub('', text)
+
+    # Create a tokenized list of the words
+    words = word_tokenize(re_clean)
+    
+    # Lemmatize words into root words
+    lemmatizer = WordNetLemmatizer()
+    lem = [lemmatizer.lemmatize(word) for word in words]
+
+    # Remove the stop words
+    sw = set(stopwords.words('english'))
+    
+    # Convert the words to lowercase
+    tokens = [word.lower() for word in lem if word.lower() not in sw]
+    
+    
+    return tokens
