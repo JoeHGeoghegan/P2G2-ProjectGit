@@ -1,535 +1,191 @@
-,date,ticker,text,pos,neg,neu,compound
-0,2022-05-19,NFLX,"Picking out something new to watch from Netflixs slew of kids titles can be overwhelming, for both parents and children. And sometimes kids are just indecisive. But the streaming services new Mystery… [+1317 chars]",-0.128,0.043,0.957,0.0
-1,2022-05-14,NFLX,"The platform could add the capability for comedy specials
-Illustration by Alex Castro / The Verge
-Netflix may be expanding into livestreaming. According to a report from Deadline, Netflix is curren… [+1940 chars]",0.3612,0.0,0.923,0.077
-2,2022-06-02,NFLX,"The streaming wars are no longer about which app and service you like using the most, but which one has the content library you want access to at the drop of a hat. Services like YouTube TV and Sling… [+1823 chars]",-0.0258,0.139,0.723,0.137
-3,2022-05-10,NFLX,"Streaming is a curious beast. One minute you'll be enjoying the '80s vibe of Stranger Things and the next you'll be struggling to pick something from that overwhelming catalog. Sometimes, though, you… [+6276 chars]",0.4404,0.073,0.779,0.148
-4,2022-05-10,NFLX,"The timetables are accelerating
-Illustration by Alex Castro / The Verge
-It has been less than a month since Netflix announced slowing revenue growth and its first subscriber drop in over a decade, … [+1608 chars]",0.128,0.061,0.865,0.075
-5,2022-05-26,NFLX,"Aloy could be on her way to Netflix.
-
- 
-
- Sony is continuing to go all in on turning its flagship video games into TV shows and movies — according to Variety, the company announced that it’s making … [+2193 chars]",0.1027,0.0,0.963,0.037
-6,2022-05-22,NFLX,,0.0,0.0,0.0,0.0
-7,2022-05-28,NFLX,"Over a three-hour dinner, Mr. Sarandos was charming and upbeat, dressed down in Levis and sneakers. You would never know he had been through a Job-level run of bad fortune in the last few months. Fir… [+1868 chars]",0.0772,0.085,0.823,0.092
-8,2022-05-08,NFLX,"Ncuti Gatwa, a star of the Netflix series Sex Education, will be the 14th actor and the first Black man to play the title role in Doctor Who, the long-running British science fiction franchise about … [+652 chars]",0.34,0.0,0.936,0.064
-9,2022-05-18,NFLX,"Alongside 150 full time employees Netflix axed Tuesday, dozens of contract writers were shown the door. Bitter tweets flooded in after the job cuts were announced. Many of those writers were part of … [+3201 chars]",-0.743,0.186,0.814,0.0
-10,2022-05-19,NFLX,"The news comes after Daredevils small cameo in Spider-Man: No Way Home
-Charlie Cox as Daredevil in Netflixs Daredevil series.
-Image: Disney Plus
-The Defender who first headlined Netflixs partnersh… [+1029 chars]",0.0516,0.064,0.809,0.127
-11,2022-05-13,NFLX,"Finally well get to see exactly how Amazon applied its eleventy-billion dollar budget to this lavish JRR Tolkien project! Learn more here. (September 2, Prime Video)
-Need more TV, you fiend? Heres a… [+538 chars]",0.4753,0.0,0.89,0.11
-12,2022-05-09,NFLX,"Paramount+ has released the first trailer for Players, its long-awaited League of Legends mockumentary from American Vandal creators Dan Perrault and Tony Yacenda. Set to debut on June 16th, the seri… [+700 chars]",0.0,0.0,1.0,0.0
-13,2022-05-10,NFLX,<ul><li>Netflix will reportedly roll out its cheaper ad-supported tier before the end of 2022.</li><li>The plan could launch alongside the platform's password-sharing crackdown.</li><li>Netflix origi… [+1899 chars],0.0,0.0,1.0,0.0
-14,2022-06-02,NFLX,"Netflix debuts its newest offering, After School, a programming push aimed at younger children, with Oni: The Thunder Gods Tale, an animated show rooted in Japanese mythology. Oni is led by its creat… [+2086 chars]",0.0,0.0,1.0,0.0
-15,2022-05-24,NFLX,"May 24 (Reuters) - Netflix Inc (NFLX.O) announced the launch of three mobile games on Tuesday, with a fourth title coming at the end of the month, as the streaming service best known for its movies a… [+1147 chars]",0.6369,0.0,0.896,0.104
-16,2022-05-20,NFLX,Netflix is trying to build up hype for Stranger Things season 4 in a not-so-subtle way: by letting you watch a significant chunk of it. The service has shared the first eight minutes of the introduct… [+964 chars],0.4939,0.0,0.887,0.113
-17,2022-06-02,NFLX,"Doctor Strange in the Multiverse of Madness has only been in theaters for a few weeks, but you won't need to wait much longer to catch the latest Marvel Cinematic Universe movie at home. It will star… [+977 chars]",0.3291,0.08,0.832,0.088
-18,2022-05-16,NFLX,"Netflix is teeming with high quality fantasy. In fact, there's so much good stuff it's difficult to figure out where to start!
-Here's where we think you should start. If you're after fantasy movies,… [+5915 chars]",0.243,0.063,0.851,0.087
-19,2022-05-13,NFLX,"Netflix has such an impressive range of horror movies that this introduction is going to be a list of the titles that didn't make the main recommendations. Try The Rental (2020), directed by Dave Fra… [+8059 chars]",-0.1027,0.09,0.829,0.08
-0,2022-05-12,FB,"Meta started renaming its products after the company switched its name: The Oculus Quest and Facebook Portal devices, for instance, are now known as the Meta Quest and Meta Portal. It's only natural … [+1717 chars]",0.3612,0.0,0.932,0.068
-1,2022-05-11,FB,"Meta has withdrawn
- a request it made to its oversight Board seeking guidance on shaping its content moderation policies amid Russias invasion of Ukraine. The company had originally asked the Oversi… [+1944 chars]",0.0,0.0,1.0,0.0
-2,2022-06-01,FB,"Sheryl Sandberg is stepping down as COO of Meta after 14 years as one of Mark Zuckerberg's top lieutenants at the company. She will remain on the company's board, spokesperson Andy Stone said. 
-It w… [+233 chars]",0.2023,0.0,0.952,0.048
-3,2022-05-06,FB,"In April 2017 Latice Fisher, a woman from Mississippi, arrived at a hospital suffering from a miscarriage. She was later indicted for second degree murder. Prosecutors used her search history and her… [+2794 chars]",-0.8316,0.212,0.788,0.0
-4,2022-05-05,FB,"Photo by Amelia Holowaty Krales / The Verge
-
- 
-
- The Meta Quest 2 is one of those rare products that keeps getting better. Part of this has to do with the hardware, which has received several useful… [+1452 chars]",0.4404,0.0,0.923,0.077
-5,2022-06-01,FB,"From social networking to social technology
-Illustration by Alex Castro / The Verge
-When the company formerly known as Facebook announced its plan to rebrand last October, it also announced a new s… [+1561 chars]",0.0,0.0,1.0,0.0
-6,2022-05-17,FB,"Meta has nearly doubled the amount of violent content it removes from Facebook. During the first quarter of 2022, the company took down 21.7 million pieces of content for breaking its rules around vi… [+1943 chars]",-0.5994,0.1,0.9,0.0
-7,2022-05-18,FB,"Mark Zuckerberg has internally downplayed the possibility of layoffs
-Photo by Vjeran Pavic / The Verge
-Meta is pulling back its investments in a number of products, including the teams it spun up e… [+3252 chars]",0.0772,0.0,0.962,0.038
-8,2022-05-05,FB,"A Senate hearing this week and a new law in Europe show how transparency advocates are winning
-Sen. Chris Coons, who led Wednesdays hearing on tech transparency, during a previous hearing in March.… [+8930 chars]",0.5267,0.0,0.901,0.099
-9,2022-05-12,FB,"Meta
- CEO Mark Zuckerberg has provided a first proper look at the company's next mixed-reality headset, codenamed Project Cambria
-, in action. The ""high-end headset"" is scheduled for release later … [+2085 chars]",0.0,0.0,1.0,0.0
-10,2022-06-03,FB,"Illustration by Alex Castro / The Verge
-
- 
-
- Every Friday, The Verge publishes our flagship podcast, The Vergecast, where Verge editor-in-chief Nilay Patel and editor-at-large David Pierce discuss t… [+1971 chars]",0.1027,0.0,0.952,0.048
-11,2022-05-10,FB,"Meta has revealed more of how NFTs will work on Instagram. In the US-based test, you can show what you've bought or created for free by connecting your Instagram account to a compatible digital walle… [+1223 chars]",0.6486,0.0,0.865,0.135
-12,2022-05-23,FB,"Meta's Cambridge Analytica
- woes are far from over. Karl Racine, the Attorney General of the District of Columbia, has sued Mark Zuckerberg. He accused the Meta
- CEO of having a direct hand in maki… [+1733 chars]",-0.2263,0.127,0.794,0.079
-13,2022-05-12,FB,"Mark Zuckerberg demoing the Project Cambria headset, which has been blurred out to hide its appearance. | Image: Meta
-
- 
-
- Mark Zuckerberg just shared a short demo video showcasing some of the capab… [+2078 chars]",0.1779,0.05,0.88,0.07
-14,2022-06-03,FB,"Instagram and Facebook Reels now supports 90-second videos | Image: Meta
-
- 
-
- In a blog post on Thursday, Meta said that it’s globally rolling out new creator tools for its TikTok competitor, Reels,… [+2168 chars]",0.3612,0.0,0.925,0.075
-15,2022-05-31,FB,"May 31 (Reuters) - Meta Platforms Inc (FB.O) said on Tuesday its Class A common stock will begin trading on the Nasdaq under the ticker symbol 'META' prior to market open on June 9, replacing its cur… [+542 chars]",0.0,0.0,1.0,0.0
-16,2022-05-18,FB,"Metas accounting of the most popular content on Facebook continues to be a confusing mess to untangle. The company released the latest version
- of its widely viewed content report, which details som… [+4772 chars]",-0.079,0.117,0.8,0.082
-17,2022-06-01,FB,It took less than an hour for one researcher studying Metas titular metaverse to be virtually raped after putting on the VR headset for the first time. After days of witnessing and experiencing rampa… [+5804 chars],-0.6808,0.116,0.884,0.0
-18,2022-05-13,FB,"In the months after Facebook announced its plans to rebrand as Meta, a mad dash has commenced in the tech world to build this new virtual universe. Investors are spending millions to buy up virtual ""… [+5853 chars]",-0.4939,0.082,0.918,0.0
-19,2022-06-01,FB,"You might also start seeing missing children as you scroll through selfies and reels on your Instagram feed. While Meta and childrenarent typically two words anyone wants to see near each other, this… [+2299 chars]",-0.296,0.061,0.939,0.0
-0,2022-05-16,UBER,"Uber continues to show that it has grand ambitions that go far beyond the ride-sharing service that it first became known for. At the company's second annual, product-focused Go/Get event, Uber annou… [+5512 chars]",0.4588,0.0,0.917,0.083
-1,2022-05-25,UBER,"After Uber announced that it was cutting back on hiring and other expenses due to the economic slowdown, rival Lyft is doing the same, according to The Wall Street Journal. ""Given the slower than exp… [+818 chars]",-0.128,0.04,0.96,0.0
-2,2022-05-16,UBER,"Uber Eats is launching not just one but two autonomous delivery pilots today in Los Angeles, TechCrunch has reported. The first is via an autonomous vehicle partnership with Motional, originally anno… [+1599 chars]",0.0,0.0,1.0,0.0
-3,2022-05-05,UBER,"As pandemic safety measures have lifted in the US, ride-hailing drivers risk deactivation for imposing their own mask rules.
-Nearly two weeks ago, Uber and Lyft removed in-app buttons that allowed U… [+3070 chars]",0.0772,0.094,0.831,0.075
-4,2022-05-05,UBER,"By Peter HoskinsBusiness reporter
-Image source, Getty Images
-Ride-hailing and delivery group Uber has made a $5.9bn (£4.7bn) loss, mostly due to its stakes in other companies.
-The firm said almost… [+2577 chars]",-0.3182,0.069,0.931,0.0
-5,2022-05-05,UBER,"If you thought ride-hailing app Uber(NYSE: UBER) was going to deliver the stock market from the horrendous start to the years it's had, think again. The likes of Apple (NASDAQ: AAPL) and Microsoft (N… [+3884 chars]",-0.25,0.094,0.837,0.069
-6,2022-05-10,UBER,"Currently trading at less than $25, the shares of leading ride-hailing company Uber Technologies (UBER) declined nearly 2% in price in premarket trading on news that the company's CEO intends to cut … [+5119 chars]",0.0258,0.058,0.882,0.061
-7,2022-05-12,UBER,"(Reuters) - A California company sued Uber Technologies Inc in San Francisco federal court on Thursday, accusing the rideshare giant of violating its trademark rights with a new ""Uber Travel"" tradema… [+2018 chars]",-0.6369,0.157,0.843,0.0
-8,2022-05-04,UBER,"Posted 
-Uber Technologies Inc on Wednesday said it had no need to boost incentives further to lure drivers, a day after rival Lyft said it needed to spend more for labor in the coming months, sendin… [+56 chars]",0.4215,0.053,0.825,0.121
-9,2022-05-09,UBER,"Posted 
-05/09 Uber Technologies will scale back hiring and reduce expenditure on its marketing and incentive activities, CNBC reported on Monday, citing a letter from Chief Executive Officer Dara Kh… [+10 chars]",0.3612,0.0,0.923,0.077
-10,2022-05-09,UBER,"Posted 
-05/09 Uber Technologies will scale back hiring and reduce expenditure on its marketing and incentive activities, CNBC reported on Monday, citing a letter from Chief Executive Officer Dara Kh… [+10 chars]",0.3612,0.0,0.923,0.077
-11,2022-05-04,UBER,"NEW YORK, May 4 (Reuters Breakingviews) - Uber Technologies (UBER.N) is trying to distance itself from rival Lyft (LYFT.O). Boss Dara Khosrowshahi on Wednesday said the ride-hailing firm doesnt have … [+1578 chars]",0.0,0.0,1.0,0.0
-12,2022-05-04,UBER,"Posted 
-05/04 Uber Technologies Inc on Wednesday said it had no need to boost incentives further to lure drivers, a day after rival Lyft said it needed to spend more for labor in the coming months, … [+62 chars]",0.4215,0.053,0.825,0.121
-13,2022-05-06,UBER,"May 6 (Reuters) - Lyft Inc's (LYFT.O) choice to stay on the narrow ride-hail road worries investors as its larger rival Uber Technologies Inc (UBER.N)explores more profitable paths, such as becoming … [+3734 chars]",0.101,0.08,0.829,0.091
-14,2022-05-16,UBER,"May 16 (Reuters) - Uber Technologies Inc (UBER.N) on Monday said it launched pilot food delivery services with autonomous vehicles in two California cities, and said it was adding electric vehicle ch… [+2020 chars]",0.128,0.0,0.955,0.045
-15,2022-05-04,UBER,"May 4 (Reuters) - Uber Technologies Inc (UBER.N) on Wednesday beat expected operating earnings and forecast a strong second quarter, saying it had no need to offer extra incentives to boost its drive… [+2615 chars]",0.7269,0.057,0.727,0.216
-16,2022-05-14,UBER,"May 14 (Reuters) - South Korea ended their 12-year wait for an Uber Cup title with a 3-2 upset of defending champions China that was only decided in the last singles match of the final in Bangkok, Th… [+1464 chars]",0.2023,0.062,0.857,0.081
-17,2022-05-09,UBER,"May 9 (Reuters) - Uber Technologies Inc (UBER.N) will scale back hiring and reduce expenditure on its marketing and incentive activities, CNBC reported on Monday, citing a letter from Chief Executive… [+1608 chars]",0.3612,0.0,0.921,0.079
-18,2022-05-09,UBER,May 9 (Reuters) - A continued decline in on-demand trucking prices risks squeezing out tens of thousands of small operator-owned trucking companies that rushed into the market when rates were surging… [+1892 chars],-0.2732,0.068,0.932,0.0
-19,2022-05-05,UBER,"10. And finally, Big Macs on the Alaskan tundra.
-With the help of bush pilots, residents of remote Alaskan villages are increasingly using DoorDash, Uber Eats and other food-delivery services to get… [+817 chars]",0.4019,0.0,0.924,0.076
-0,2022-05-25,MCHP,"LONDON, May 25 (Reuters) - The acquisition of Britain's biggest microchip factory Newport Wafer Fab by Chinese-owned technology company Nexperia has been called in for a full national security assess… [+736 chars]",0.6597,0.0,0.838,0.162
-1,2022-05-25,MCHP,"Speaking in Madrid, Deputy Prime Minister and Economy Minister Nadia Calvino said the five-year plan is aimed at enabling Spain to cover every area in the design and production of microchips, which a… [+684 chars]",0.0,0.0,1.0,0.0
-2,2022-05-09,MCHP,Microchip Technology Inc. reported record annual sales and projected better-than-expected sales this quarter on strong demand despite continued manufacturing capacity constraints.Fourth-quarter profi… [+1582 chars],0.4215,0.056,0.821,0.123
-3,2022-05-20,MCHP,"VELDHOVEN, Netherlands, May 20 (Reuters) - ASML (ASML.AS), a semiconductor industry and stock market giant, has to think smaller. Or maybe bigger.
-It is building machines the size of double-decker b… [+5167 chars]",0.0,0.0,1.0,0.0
-4,2022-05-10,MCHP,"Image source: The Motley Fool.
-Microchip Technology (MCHP -4.81%)Q4 2022 Earnings CallMay 09, 2022, 5:00 p.m. ET
-Contents:
-<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Parti… [+63756 chars]",-0.4404,0.108,0.892,0.0
-5,2022-05-08,MCHP,"One of cloud computings key contributions to automation will be its ability to use data input from multiple sensors and devices. As the systems become commonplace, they will be the platform that show… [+16957 chars]",0.3182,0.0,0.937,0.063
-6,2022-05-18,MCHP,"To build company resilience, CEOs must prioritize relationships with suppliers.
-""&gt;
-It takes 2,500 parts to build a car, Peter Hasenkamp, former head of supply chain strategy for the Tesla Model … [+8911 chars]",0.0,0.0,1.0,0.0
-7,2022-05-17,MCHP,"Technology stocks are normally associated with growth, and not necessarily dividends. Yet who says you have to choose? The following three stocks look like incredible values amid this year's violent … [+6419 chars]",0.4404,0.098,0.705,0.196
-8,2022-05-26,MCHP,"If anything exemplifies the power of measurement in contemporary life, it is Standard Reference Peanut Butter. Its the creation of the US National Institute of Standards and Technology (NIST) and sol… [+21532 chars]",0.2732,0.0,0.938,0.062
-9,2022-05-31,MCHP,Post-quantum cryptography company PQShield has delivered new deals to introduce its quantum-ready cryptographic solutions to organizations across sectors. The company announces a major licensing deal… [+5830 chars],0.1779,0.0,0.936,0.064
-10,2022-05-23,MCHP,"Microchip Technology Inc.
-CHANDLER, Ariz., May 23, 2022 (GLOBE NEWSWIRE) -- (NASDAQ:MCHP) Microchip Technology Incorporated, a leading provider of smart, connected and secure embedded control soluti… [+1599 chars]",0.6249,0.0,0.831,0.169
-11,2022-05-28,MCHP,"Security threats are growing in complexity and causing product development challenges in the Internet of Things (IoT), consumer, industrial, medical and other markets. It is imperative that these pro… [+4134 chars]",0.1531,0.08,0.767,0.153
-12,2022-05-15,MCHP,"Microchip Technology Incorporated (NASDAQ:MCHP) is about to trade ex-dividend in the next three days. Typically, the ex-dividend date is one business day before the record date which is the date on w… [+4140 chars]",0.0,0.0,1.0,0.0
-13,2022-05-09,MCHP,"Microchip Technology Inc.
-CHANDLER, Ariz., May 09, 2022 (GLOBE NEWSWIRE) -- (NASDAQ: MCHP) Microchip Technology Incorporated, a leading provider of smart, connected, and secure embedded control solu… [+5542 chars]",0.6249,0.0,0.836,0.164
-14,2022-05-19,MCHP,"As the market need for security evolves, platforms must also evolve quickly to defend against cyber attacks during start-up, real-time and system updates. With these new market threats, designers can… [+4018 chars]",-0.5106,0.154,0.782,0.065
-15,2022-05-17,MCHP,"Security is a multi-step process. There's a chain of trust, with each link verified and authenticated by the one that comes before. But eventually, the chain stops somewhere. The pedal meets the meta… [+7117 chars]",0.2382,0.053,0.839,0.108
-16,2022-05-09,MCHP,"Microchip Technology Inc.
-For the quarter ended March 31, 2022
-<ul><li>Record net sales of $1.844 billion, up 4.9% sequentially and up 25.7% from the year ago quarter. The midpoint of our guidance … [+58181 chars]",0.0,0.0,1.0,0.0
-17,2022-05-30,MCHP,"While some investors are already well versed in financial metrics (hat tip), this article is for those who would like to learn about Return On Equity (ROE) and why it is important. By way of learning… [+4277 chars]",0.6597,0.0,0.845,0.155
-18,2022-05-16,MCHP,"The United States and the European Union announced on Monday a joint effort to boost microchip manufacturing and tackle Russian disinformation around the war in Ukraine.
-The two sides met outside Pa… [+3747 chars]",0.1531,0.099,0.761,0.14
-19,2022-05-21,MCHP,"The strength of a nations infrastructure is increasingly dependent on the accuracy of time. With pervasive cybersecurity threats to Global Navigation Satellite Systems (GNSS), utilizing an alternativ… [+3288 chars]",0.1027,0.087,0.812,0.1
-0,2022-05-18,ABNB,"New York City may have more Airbnb listings than apartments for rent despite a 2016 law banning short-term rentals, Curbed has reported. April apartment rental inventory in Manhattan, Brooklyn and no… [+2217 chars]",0.0,0.0,1.0,0.0
-1,2022-05-11,ABNB,"Now that it's relatively safe to travel again, Airbnb is unveiling an overhauled experience that includes some much-needed features for frequent travellers. To start, the reworked app now lets you se… [+1248 chars]",0.4404,0.0,0.917,0.083
-2,2022-05-04,ABNB,"(CNN) Sitting atop one of the world's most famous nightclubs is a scarlet red windmill. And inside the windmill lies a secret room, hitherto unseen by the public.
-Next month, a select number of trav… [+2506 chars]",-0.3612,0.078,0.886,0.036
-3,2022-05-03,ABNB,"NEW YORK, May 3 (Reuters Breakingviews) - Airbnb (ABNB.O) might have more staying power than the travel industry itself. The $97 billion vacation-booking platforms post-pandemic bounce-back looks set… [+1739 chars]",0.0,0.0,1.0,0.0
-4,2022-05-24,ABNB,All mainland Chinese listings -- homes and experiences -- will be taken down by this summer. Airbnb formally launched its mainland China business in 2016 and has faced mounting competition from domes… [+705 chars],0.128,0.0,0.957,0.043
-5,2022-05-24,ABNB,"Posted 
-Vacation rental company Airbnb Inc will shut down all listings and experiences in mainland China from July 30, it said on Tuesday. This report produced by Chris Dignam.",0.0,0.0,1.0,0.0
-6,2022-05-24,ABNB,"Posted 
-05/24 Vacation rental company Airbnb Inc will shut down all listings and experiences in mainland China from July 30, it said on Tuesday. This report produced by Chris Dignam.",0.0,0.0,1.0,0.0
-7,2022-05-11,ABNB,"May 11 (Reuters) - Airbnb Inc (ABNB.O) would allow travelers to split their holiday between two properties to facilitate longer stays, the vacation rental firm said on Wednesday, as it doubles down o… [+1846 chars]",0.5574,0.0,0.874,0.126
-8,2022-06-01,ABNB,"Adam Masato is a self-described ""regular millennial with a W-2 job,"" who learned how to make $8,400 a month in passive income from a YouTube video.
-Masato and his wife, Diana Hernandez, live in Los … [+3052 chars]",0.2023,0.0,0.947,0.053
-9,2022-05-11,ABNB,"Airbnb is revamping its service so categories of stays -- from castles to caves, from iconic cities to off-the-grid spots -- become the starting points for your search, alongside other tweaks. 
-Trav… [+3993 chars]",0.0,0.0,1.0,0.0
-10,2022-06-02,ABNB,Chinese readers are about to lose some choice in e-books. Reutersreports Amazon is pulling Kindle products from China over the course of the next two years. The company will stop offering Kindle e-re… [+1894 chars],-0.4939,0.127,0.829,0.044
-11,2022-05-11,ABNB,"Travel booking company Airbnb is rolling out a new design for its website and app to encourage the discovery of different places and facilitate longer stays.
-The firm says this is its biggest redesi… [+5102 chars]",0.5106,0.0,0.912,0.088
-12,2022-05-18,ABNB,"An anonymous reader quotes a report from Curbed: The fever isn't breaking. There are now bidding wars for one in every five Manhattan rental apartments (and one in three luxury units), according to t… [+2067 chars]",-0.5574,0.096,0.904,0.0
-13,2022-05-16,ABNB,"Moulin Rouge dancers perform at the 130th Anniversary Le Moulin Rouge celebration on October 6, 2019 in Paris, France.
-Rafael Yaghobzadeh/AP
-A secluded space inside Paris' Moulin Rouge, a historic … [+1498 chars]",0.0,0.0,1.0,0.0
-14,2022-06-03,ABNB,"BEIJING, June 3 (Reuters) - Airbnb Inc (ABNB.O) said on Friday it will facilitate the shift of housing and host data to several Chinese domestic rental platforms before it shuts down operations in ma… [+550 chars]",0.0,0.0,1.0,0.0
-15,2022-05-11,ABNB,"Accommodation-related services provider Airbnb (ABNB) reported solid revenue growth in its last quarter, driven by a surge in gross bookings globally. However, the stock is currently down nearly 30% … [+4455 chars]",0.0258,0.09,0.787,0.122
-16,2022-05-06,ABNB,"A deluge of jobseekers hit Airbnb's careers page after the company announced last Thursday that employees could live and work anywhere forever.
-Airbnb CEO and founder Brian Chesky announced the bene… [+1734 chars]",0.0,0.0,1.0,0.0
-17,2022-05-14,ABNB,Airbnb has just announced the biggest change to its site in a decade. The online accommodation marketplace has redesigned its site to move away from the archaic ways of booking by encouraging visitor… [+3684 chars],0.5267,0.0,0.907,0.093
-18,2022-05-11,ABNB,"The problem with Airbnb, according to its CEO Brian Chesky, is the search box. When users open the platform, they are asked a question: Where do you want to go? This, Chesky has come to realize, is t… [+7368 chars]",-0.34,0.066,0.902,0.032
-19,2022-05-14,ABNB,"These Are The Stocks The Analysts Are Most Interested In
-When it comes to investing, following the money is always a good bet. As good as a company is, as undervalued as it may be, as big and safe a… [+3404 chars]",0.8932,0.0,0.755,0.245
-0,2022-05-16,FANG,"MIDLAND, Texas, May 16, 2022 (GLOBE NEWSWIRE) -- Diamondback Energy, Inc. (NASDAQ: FANG) (Diamondback) and Rattler Midstream LP (NASDAQ: RTLR) (Rattler) today announced that, on May 15, 2022, they en… [+10913 chars]",0.2732,0.0,0.937,0.063
-1,2022-05-12,FANG,"Diamondback Energy, Inc. (NASDAQ:FANG) shareholders might be concerned after seeing the share price drop 12% in the last week. But that doesn't change the reality that over twelve months the stock ha… [+3770 chars]",0.1531,0.043,0.868,0.088
-2,2022-05-30,FANG,"In this article, we discuss 10 dividend stocks in Clint Carlson's portfolio. You can skip our detailed analysis of Carlson Capital's past performance and Carlson's investment strategies, and go direc… [+12160 chars]",0.0,0.0,1.0,0.0
-3,2022-05-25,FANG,"Markets were relatively flat on Wednesday, as investors wait for what the Federal Reserve has to say about upcoming monetary policy. The Fed is releasing the minutes from its most recent meeting Wedn… [+2855 chars]",0.0,0.0,1.0,0.0
-4,2022-05-12,FANG,"The market should've bounced Thursday, with interest rates taking a breather, but instead the volatility continued. That's why Jim Cramer told his Mad Money viewers that they must never stop looking … [+5917 chars]",-0.2425,0.114,0.771,0.115
-5,2022-05-27,FANG,"Share price appreciation and higher dividends are two highly visible ways to judge the value of the stocks in investors’ portfolios. They often indicate, among other things, whether investors can exp… [+2420 chars]",0.7845,0.0,0.792,0.208
-6,2022-05-16,FANG,"Rattler Midstream L.P. 
- RTLR,
- +2.55%
-announced Monday a deal to be acquired by Diamondback Energy Inc. 
- FANG,
- +5.03%
-in an all-stock deal that values Rattler at about $2.20 billion. Under t… [+988 chars]",0.5859,0.0,0.862,0.138
-7,2022-05-24,FANG,"William Harnisch is the founder and Chief Investment Strategist at Peconic Partners. He founded Peconic Partners in 2000, and prior to this, he worked as the president and chief executive officer at … [+5757 chars]",0.0,0.0,1.0,0.0
-8,2022-05-03,FANG,"U.S. shale giants stung by billions of dollars in hedging losses are spending big bucks to ditch their positions in a risky bet that prices stay high.
-Companies including Pioneer Natural Resources C… [+5128 chars]",-0.25,0.118,0.816,0.066
-9,2022-05-03,FANG,"Diamondback Energy, Inc. (NASDAQ:FANG) Q1 2022 Earnings Conference Call May 3, 2022 9:00 AM ET
- Company Participants
- Adam Lawlis - Vice President-Investor Relations
- Travis Stice - Chairman and C… [+48214 chars]",0.2732,0.0,0.93,0.07
-10,2022-05-30,FANG,"NEW YORK , May 30, 2022 /PRNewswire/ -- If you own shares in any of the companies listed above and would like to discuss our investigations or have any questions concerning this notice or your rights… [+2835 chars]",0.5719,0.0,0.882,0.118
-11,2022-05-03,FANG,"NEW YORK -- Stocks that traded heavily or had substantial price changes Tuesday:
-Devon Energy Corp., up $5.93 to $64.28.
-The oil and gas exploration company reported strong first-quarter earnings a… [+1072 chars]",0.7964,0.0,0.761,0.239
-12,2022-05-16,FANG,"NEW YORK -- Stocks that traded heavily or had substantial price changes Monday:
-ManTech International Corp., up $12.32 to $94.29.
-Investment firm Carlyle Group is buying the defense contractor in a… [+1046 chars]",0.3182,0.0,0.904,0.096
-13,2022-05-08,FANG,"Natural-gas drilling has rarely been so profitable. Yet U.S. producers say they will retire debt, buy back shares and pay dividends rather than ramp-up output.
-The pursuit of stock-boosting financia… [+4666 chars]",0.4663,0.103,0.74,0.157
-14,2022-05-22,FANG,"We Are/DigitalVision via Getty Images
-Introduction
- Viper Energy Partners (NASDAQ:VNOM) holds royalty interests in the Permian Basin, one of the largest oil-producing regions in North America that … [+5376 chars]",0.4767,0.0,0.868,0.132
-15,2022-05-23,FANG,"Milan_Jovic/E+ via Getty Images
-Merger activity decreased last week with two new deals announced and three deals completed.
- ManTech International Corporation (NASDAQ:MANT) 
- Co-founded in 1968 by… [+17041 chars]",0.0,0.0,1.0,0.0
-16,2022-05-10,FANG,"Metals across the board have…
-Crude oil prices are up…
-Few battery metals have seen…
-By Alex Kimani - May 09, 2022, 7:00 PM CDTThe oil and gas sector finished last week as the market's biggest win… [+8512 chars]",-0.5719,0.091,0.909,0.0
-17,2022-05-26,FANG,"onurdongel/E+ via Getty Images
-Diamondback Energy, Inc. (NASDAQ:FANG) is one of the largest and most significant independent exploration and production companies in the Permian Basin. This is a posi… [+16930 chars]",0.6549,0.0,0.809,0.191
-18,2022-05-16,FANG,"NEW YORK, May 16, 2022 /PRNewswire/ -- Weiss Law is investigating possible breaches of fiduciary duty and other violations of law by the board of directors of Rattler Midstream LP (""Rattler"" or the ""… [+1801 chars]",-0.5267,0.089,0.911,0.0
-19,2022-05-23,FANG,"NEW YORK, May 23, 2022 /PRNewswire/ --
-If you own shares in any of the companies listed above and would like to discuss our investigations or have any questions concerning this notice or your rights… [+2953 chars]",0.5719,0.0,0.882,0.118
-0,2022-05-19,MRO,"HOUSTON, May 19 (Reuters) - U.S. refiners imported about 1.3 million barrels per day (bpd) of crude and fuel oil from Latin America in April, the highest in seven months according to U.S. Customs dat… [+2837 chars]",-0.5719,0.096,0.904,0.0
-1,2022-05-13,MRO,"BOSTON/LONDON, May 13 (Reuters) - Big Oil has enjoyed an easier ride at shareholder meetings so far this year compared with last year's punishing run of hostile investor votes tied to climate concern… [+5568 chars]",-0.0258,0.147,0.709,0.144
-2,2022-05-13,MRO,"HOUSTON, May 12 (Reuters) - Nine U.S. Gulf Coast refineries exceeded the federal regulatory action level between 2018 and 2020 for pollution from benzene, which causes cancer, according to a study by… [+1898 chars]",-0.6597,0.124,0.876,0.0
-3,2022-05-24,MRO,"The energy sector is composed of companies focused on the exploration, production, and marketing of oil, gas, and renewable resources around the world. Energy sector stocks include upstream companies… [+297 chars]",0.7717,0.0,0.756,0.244
-4,2022-05-25,MRO,"The energy sector is composed of companies focused on the exploration, production, and marketing of oil, gas, and renewable resources around the world. Energy sector stocks include upstream companies… [+297 chars]",0.7717,0.0,0.756,0.244
-5,2022-05-13,MRO,"By Ross Kerber and Simon Jessop
-BOSTON/LONDON (Reuters) - Big Oil has enjoyed an easier ride at shareholder meetings so far this year compared with last year's punishing run of hostile investor vote… [+5320 chars]",-0.0258,0.147,0.709,0.144
-6,2022-06-03,MRO,"Gas prices have surged to $4.99 a gallon at some Louisville gas stations, including at this Thorntons on Dixie Highway on Thursday afternoon. June 2, 2022
-Michael Logan stood in faded hospital scrub… [+7081 chars]",0.0,0.0,1.0,0.0
-7,2022-06-02,MRO,"JAMESTOWN, N.D.--(BUSINESS WIRE)--Leaders from ADM (NYSE: ADM) and Marathon Petroleum Corp. (NYSE: MPC), along with local, state and federal policymakers, today celebrated the groundbreaking for Nort… [+5338 chars]",0.5719,0.0,0.879,0.121
-8,2022-05-13,MRO,"HOUSTON (Reuters) - Nine U.S. Gulf Coast refineries exceeded the federal regulatory action level between 2018 and 2020 for pollution from benzene, which causes cancer, according to a study by the Env… [+1686 chars]",-0.6597,0.124,0.876,0.0
-9,2022-05-10,MRO,"BEIJING (AP) Asian stocks followed Wall Street lower Tuesday as fears increased that U.S. rate increases to fight inflation might stall economic growth.
-Market benchmarks in Tokyo, Hong Kong, South … [+2143 chars]",-0.5719,0.234,0.648,0.117
-10,2022-05-14,MRO,"NEW YORK, May 13, 2022 /PRNewswire/ -- The aviation fuel market potential growth difference will increase by USD 44.77 billion from 2021 to 2026, and the market's growth is anticipated to accelerate … [+8908 chars]",0.7579,0.0,0.805,0.195
-11,2022-05-26,MRO,"The major key players are - Elevance, Caramuru, RBF Port Neches, Glencore, Evergreen Bio Fuels, Valero Energy Corp, BEGO, NobelBiocare, Ivoclar Vivadent, Osstem, KaVo Kerr Grou, Louis Dreyfus, Nissin… [+10332 chars]",0.2732,0.0,0.932,0.068
-12,2022-05-12,MRO,"NEW YORK, May 12, 2022 /PRNewswire/ --
-Technavio has announced its latest market research report titled Asphalt Market by Application, End-user, and Geography - Forecast and Analysis 2021-2025
-Asph… [+9302 chars]",0.0,0.0,1.0,0.0
-13,2022-05-13,MRO,"(Bloomberg) -- From record gasoline prices to higher airfares to fears of diesel rationing ahead, Americas runaway energy market is disquieting both US travelers and the wider economy. But the chief … [+5820 chars]",-0.09,0.055,0.9,0.045
-14,2022-05-19,MRO,"Editors Note: This story is part of CNN Business Nightcap newsletter. To get it in your inbox, sign up for free, here.
-People are selling stocks, selling bonds, selling crypto, selling their failed … [+3025 chars]",0.0,0.083,0.833,0.083
-15,2022-05-10,MRO,(Bloomberg) -- Suncor Energy Inc. Chief Executive Officer Mark Little said that the companys board and executives will engage in talks with Elliott Investment Management LP but that he disagrees with… [+2996 chars],-0.1779,0.081,0.829,0.09
-16,2022-05-09,MRO,"NEW YORK (AP) Stocks racked up more losses on Wall Street Monday, leaving the S&amp;P 500 at its lowest point in more than a year. 
-The sell-off came as renewed worries about Chinas economy piled on… [+5154 chars]",-0.8122,0.198,0.802,0.0
-17,2022-06-03,MRO,"(Credit: Pixabay)
-Leaders from ADM and Marathon Petroleum, along with local, state, and federal policymakers, today celebrated the groundbreaking for North Dakotas first dedicated soybean processing… [+1468 chars]",0.7717,0.0,0.795,0.205
-18,2022-05-09,MRO,"U.S. stocks fell sharply Monday, pushing the S&amp;P 500 below the key 4,000 level as investors brace for another week of volatility amid a fresh report on inflation, as well as the winding down of t… [+4128 chars]",0.5267,0.0,0.888,0.112
-19,2022-05-05,MRO,"A global shortage of natural gas is giving U.S. fuelmakers an edge over European rivals.
-Refiners rely on natural gas as a crucial source of heat to distill crude oil into products such as diesel an… [+2291 chars]",0.1779,0.129,0.703,0.168
-0,2022-05-03,DVN,"May 3 (Reuters) - Shale producers Coterra Energy (CTRA.N) and Devon Energy (DVN.N) on Tuesday said they were evaluating new opportunities tied to liquefied natural gas (LNG) but warned of a ""crowded""… [+2484 chars]",0.25,0.075,0.737,0.188
-1,2022-05-04,DVN,"May 4 (Reuters) - Pioneer Natural Resources Co (PXD.N) reported a five-fold jump in first-quarter profit on Wednesday and raised its dividend, as the U.S. shale producer benefited from soaring energy… [+1339 chars]",0.6597,0.0,0.838,0.162
-2,2022-05-24,DVN,"The energy sector is composed of companies focused on the exploration, production, and marketing of oil, gas, and renewable resources around the world. Energy sector stocks include upstream companies… [+297 chars]",0.7717,0.0,0.756,0.244
-3,2022-05-25,DVN,"The energy sector is composed of companies focused on the exploration, production, and marketing of oil, gas, and renewable resources around the world. Energy sector stocks include upstream companies… [+297 chars]",0.7717,0.0,0.756,0.244
-4,2022-05-19,DVN,"AUSTIN, Texas--(BUSINESS WIRE)--WhiteWater, EnLink Midstream, LLC (NYSE: ENLC), Devon Energy Corp. (NYSE: DVN), and MPLX LP (NYSE: MPLX) have reached a final investment decision to move forward with … [+5189 chars]",0.3612,0.0,0.885,0.115
-5,2022-05-24,DVN,"Five years after the United States became a net exporter of natural gas on an annual basis, the country's natural gas exports, both by pipeline and as liquefied natural gas (LNG), have grown by leaps… [+4941 chars]",0.8519,0.0,0.757,0.243
-6,2022-05-06,DVN,"(Bloomberg) -- Its been a volatile week for U.S. stocks. The selling, then buying, then major selling -- followed by even more selling -- sent indexes back to levels last seen a year ago when the pan… [+2997 chars]",0.0,0.0,1.0,0.0
-7,2022-05-17,DVN,"Oil is trading at the highest level in over a decade, and there is every reason to believe that the price of the black gold may stay above $100 a barrel for some time. Warren Buffett thinks so, as he… [+3233 chars]",0.0,0.0,1.0,0.0
-8,2022-05-04,DVN,"Devon Energy Corp., one of the biggest oil explorers in the Permian Basin, is getting into the sand business to combat rising costs.
-The Oklahoma City-based company told investors of a new, so-calle… [+839 chars]",-0.0772,0.066,0.877,0.058
-9,2022-05-03,DVN,"After markets closed on Monday, Devon Energy reported quarterly results that beat on both the top and bottom lines. The oil and gas producer did not indicate that it planned to increase production or… [+1936 chars]",0.6369,0.0,0.842,0.158
-10,2022-05-04,DVN,"Producers are prioritizing shareholder returns over production ramp-ups, even as Western sanctions on Russia sent crude prices to 14-year-highs during the quarter. U.S. WTI settled at $107.81 on Wedn… [+794 chars]",-0.5719,0.11,0.89,0.0
-11,2022-05-03,DVN,"NEW YORK -- Stocks that traded heavily or had substantial price changes Tuesday:
-Devon Energy Corp., up $5.93 to $64.28.
-The oil and gas exploration company reported strong first-quarter earnings a… [+1072 chars]",0.7964,0.0,0.761,0.239
-12,2022-05-08,DVN,"Natural-gas drilling has rarely been so profitable. Yet U.S. producers say they will retire debt, buy back shares and pay dividends rather than ramp-up output.
-The pursuit of stock-boosting financia… [+4666 chars]",0.4663,0.103,0.74,0.157
-13,2022-05-16,DVN,"Check out the companies making headlines in midday trading Monday.
-Spirit, JetBlue Shares of JetBlue Airways dipped 4.7% on news that the company's offering $30 a share to take over Spirit Airlines.… [+2677 chars]",0.7003,0.0,0.788,0.212
-14,2022-05-04,DVN,"Veni/E+ via Getty Images
-The number of stocks dropped from BofA's quantmental Alpha Surprise Portfolio dwarfed the number of new entrants in April.
-The portfolio return was -6.8% for the month, out… [+2591 chars]",0.4019,0.0,0.868,0.132
-15,2022-05-03,DVN,"DALLAS, May 3, 2022 /PRNewswire/ -- EnLink Midstream, LLC (NYSE: ENLC) (EnLink) reported financial results for the first quarter of 2022 and raised full-year 2022 guidance.
-EnLink Midstream Logo (PR… [+52046 chars]",0.0,0.0,1.0,0.0
-16,2022-05-17,DVN,"Tokens.com Corp. (OTCPK:SMURF) Q1 2022 Earnings Conference Call May 16, 2022 4:00 PM ET
- Company Participants
- Andrew Kiguel - Chief Executive Officer
- Ian Fodie - Chief Financial Officer
- Confer… [+22969 chars]",0.0,0.0,1.0,0.0
-17,2022-05-24,DVN,"Latin America is pushing a…
-Norway, western Europes largest oil…
-The Port of Rotterdam is…
-By Alex Kimani - May 24, 2022, 6:00 PM CDTFive years after the United States became a net exporter of nat… [+5041 chars]",0.4215,0.0,0.926,0.074
-18,2022-05-10,DVN,"According to Saudi Arabias Energy…
-Colombias shale resources have long…
-As it has become crystal…
-By Alex Kimani - May 10, 2022, 5:00 PM CDTLast month, we reported that commodity shipping stocks w… [+4088 chars]",0.0,0.0,1.0,0.0
-19,2022-05-24,DVN,"Shares of Devon Energy Corp. 
- DVN,
- -0.94%
-slumped 0.94% to $70.39 Tuesday, on what proved to be an all-around mixed trading session for the stock market, with the Dow Jones Industrial Average 
-… [+791 chars]",0.5106,0.0,0.882,0.118
-0,2022-05-25,SPWR,"(Bloomberg) -- TotalEnergies SE said it will acquire a stake in a large US renewables developer, another move by the European energy giant to expand its footprint in the American power sector.
-Most … [+747 chars]",0.5267,0.0,0.876,0.124
-1,2022-06-02,SPWR,"Global Building Integrated Photovoltaics (BIPV) Market
-Global Building Integrated Photovoltaics (BIPV) Market
-Dublin, June 02, 2022 (GLOBE NEWSWIRE) -- The ""Global Building Integrated Photovoltaics… [+8421 chars]",0.0,0.0,1.0,0.0
-2,2022-06-02,SPWR,"DUBLIN, June 2, 2022 /PRNewswire/ -- The ""Global Building Integrated Photovoltaics (BIPV) Market (2022-2027) by Technology, Applications, End-Use, Deployment Type, Type, Geography, Competitive Analys… [+8595 chars]",0.1779,0.0,0.936,0.064
-3,2022-05-30,SPWR,"Global Renewable Energy Markets
-Global Renewable Energy Markets
-Dublin, May 30, 2022 (GLOBE NEWSWIRE) -- The ""Renewable Energy: Technologies and Global Markets"" report has been added to ResearchAnd… [+7137 chars]",0.6486,0.0,0.811,0.189
-4,2022-05-30,SPWR,"DUBLIN, May 30, 2022 /PRNewswire/ -- The ""Renewable Energy: Technologies and Global Markets"" report has been added to ResearchAndMarkets.com's offering.
-Research_and_Markets_Logo
-This report covers… [+7389 chars]",0.2732,0.0,0.923,0.077
-5,2022-05-05,SPWR,"The Global Solar Power Equipment Market size is expected to reach $202. 4 billion by 2027, rising at a market growth of 11. 3% CAGR during the forecast period. Solar power equipment is used to captur… [+17250 chars]",0.4019,0.0,0.902,0.098
-6,2022-05-26,SPWR,"DUBLIN--(BUSINESS WIRE)--The ""Renewable Energy: Technologies and Global Markets"" report has been added to ResearchAndMarkets.com's offering.
-This report covers the major sources of renewable energy … [+6988 chars]",0.4939,0.0,0.851,0.149
-7,2022-05-26,SPWR,"NEW YORK--(BUSINESS WIRE)--Evercore (NYSE: EVR) will host its inaugural Global Clean Energy &amp; Transition Technologies Summit in New York on June 14th and 15th, 2022.
-The Summit will provide an e… [+4946 chars]",0.5859,0.0,0.866,0.134
-8,2022-05-25,SPWR,"By Cecilia Butini
-TotalEnergies said Wednesday that it has agreed to buy 50% of U.S.-based renewable energy company Clearway Energy Group from Global Infrastructure Partners LLC.
-The French energy … [+609 chars]",0.7506,0.0,0.763,0.237
-9,2022-06-03,SPWR,"franckreporter/iStock via Getty Images
-Welcome to Seeking Alpha's Catalyst Watch - a breakdown of some of next week's actionable events that stand out. Check out Saturday morning's regular Stocks to… [+7257 chars]",0.4588,0.0,0.906,0.094
-10,2022-05-25,SPWR,"TotalEnergies SE said it would buy a 50% stake in U.S. renewables company Clearway Energy Group, in a deal worth about $2.4 billion, the latest move by an oil major to expand in wind and solar power.… [+2572 chars]",0.6486,0.0,0.844,0.156
-11,2022-06-02,SPWR,"DUBLIN, June 2, 2022 /PRNewswire/ -- The ""Global Building Integrated Photovoltaics (BIPV) Market (2022-2027) by Technology, Applications, End-Use, Deployment Type, Type, Geography, Competitive Analys… [+8334 chars]",0.1779,0.0,0.936,0.064
-12,2022-05-05,SPWR,"<ul><li>Recorded $350 million GAAP revenue, including record-high $336 million non-GAAP residential revenue, 41% year-over-year residential growth</li><li>Added 16,500 customers, 40% year-over-year g… [+58109 chars]",0.0,0.0,1.0,0.0
-13,2022-05-30,SPWR,"DUBLIN, May 30, 2022 /PRNewswire/ -- The ""Renewable Energy: Technologies and Global Markets"" report has been added to ResearchAndMarkets.com's offering.
-This report covers the major sources of renew… [+6944 chars]",0.2732,0.0,0.932,0.068
-14,2022-05-13,SPWR,"IKEA is soon selling solar panels in its stores in the United States after it recently forged a partnership with the SunPower Corp., bringing green energy directly to home consumers.
-The Swedish hom… [+2632 chars]",0.5994,0.0,0.867,0.133
-15,2022-05-30,SPWR,"SAN FRANCISCO (KRON) — IKEA will be teaming up SunPower Corp. to make solar energy more accessible to customers, the company announced in a press release this month. The move, which is being called H… [+819 chars]",0.2732,0.0,0.942,0.058
-16,2022-05-05,SPWR,"<ul><li>Recorded $350 million GAAP revenue, including record-high $336 million non-GAAP residential revenue, 41% year-over-year residential growth</li><li>Added 16,500 customers, 40% year-over-year g… [+58251 chars]",0.0,0.0,1.0,0.0
-0,2022-05-04,REGI,May 4 (Reuters) - U.S. utility NiSource Inc (NI.N) on Wednesday said it would delay the shutdown of an Indiana coal plant by two years because a federal investigation into solar panel imports has sta… [+2437 chars],-0.3182,0.065,0.935,0.0
-1,2022-05-15,REGI,"Amid rising raw material costs, supply chain constraints, and labor shortages, the engineering and construction industry took a hit over the past few months. However, with a steady increase in spendi… [+9539 chars]",0.1779,0.049,0.881,0.07
-2,2022-05-12,REGI,"US datacenter operator Switch Inc is to be purchased by private investors led by DigitalBridge Investment Management in an all-cash transaction for approximately $11 billion.
-Switch, which operates … [+2558 chars]",0.0,0.0,1.0,0.0
-3,2022-05-06,REGI,"Image source: The Motley Fool.
-Clearway Energy, Inc. (CWEN -2.28%)Q1 2022 Earnings CallMay 05, 2022, 8:00 a.m. ET
-Contents:
-<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Part… [+37173 chars]",-0.2023,0.1,0.828,0.072
-4,2022-05-19,REGI,"Samsung Electronics Co. runs its factories in Europe and the US entirely on clean energy. But in South Korea, the worlds largest smartphone maker is shackled by a domestic grid dependent on fossil fu… [+5189 chars]",0.3962,0.0,0.9,0.1
-5,2022-05-17,REGI,"Image source: The Motley Fool.
-Energy Vault Holdings, Inc. (NRGV -1.89%)Q1 2022 Earnings CallMay 16, 2022, 5:00 p.m. ET
-Contents:
-<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Cal… [+63136 chars]",-0.2023,0.1,0.828,0.072
-6,2022-05-10,REGI,"Image source: The Motley Fool.
-Montrose Environmental Group, Inc. (MEG -4.78%)Q1 2022 Earnings CallMay 10, 2022, 8:30 a.m. ET
-Contents:
-<ul><li>Prepared Remarks</li><li>Questions and Answers</li><… [+39525 chars]",-0.4404,0.104,0.896,0.0
-7,2022-05-11,REGI,"Image source: The Motley Fool.
-Infrastructure and Energy Alternatives, Inc. (IEA -19.58%)Q1 2022 Earnings CallMay 10, 2022, 11:00 a.m. ET
-Contents:
-<ul><li>Prepared Remarks</li><li>Questions and A… [+39912 chars]",-0.2023,0.097,0.833,0.07
-8,2022-05-06,REGI,"Image source: The Motley Fool.
-Dominion Energy, Inc (D 1.18%)Q1 2022 Earnings CallMay 05, 2022, 10:00 a.m. ET
-Contents:
-<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Particip… [+42232 chars]",-0.2023,0.1,0.828,0.072
-9,2022-05-05,REGI,"IRVING, Texas, May 5, 2022 /PRNewswire/ -- Darling Ingredients Inc. (NYSE: DAR), the world's leading company turning food waste into sustainable products and producer of renewable energy, today annou… [+1915 chars]",0.4767,0.076,0.763,0.161
-10,2022-05-10,REGI,"Salvador and San Andrés Energy Storage Projects Will Provide 85 Megawatt / 425 Megawatt-hours of Reliable Power
-LONGUEUIL, QC and LAKE MARY, Fla., May 10, 2022 /CNW/ - Innergex Renewable Energy Inc.… [+10487 chars]",0.4939,0.0,0.877,0.123
-11,2022-05-25,REGI,"PRINCETON, NJ and SAN FRANCISCO, May 25, 2022 (GLOBE NEWSWIRE) -- Clearway Energy, Inc. (NYSE: CWEN, CWEN.A) (the Company) and its renewable development partner and parent company, Clearway Energy Gr… [+7952 chars]",0.4939,0.0,0.877,0.123
-12,2022-05-13,REGI,"If you want to know who really controls Innergex Renewable Energy Inc. (TSE:INE), then you'll have to look at the makeup of its share registry. Insiders often own a large chunk of younger, smaller, c… [+5207 chars]",0.5574,0.0,0.855,0.145
-13,2022-05-10,REGI,"Image source: The Motley Fool.
-Gevo, Inc. (GEVO -19.37%)Q1 2022 Earnings CallMay 09, 2022, 4:30 p.m. ET
-Contents:
-<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participants</… [+31698 chars]",-0.4404,0.108,0.892,0.0
-14,2022-05-23,REGI,"* PHILUX Capital Advisors, Inc. to assist Tin Thanh Group and Affiliates to list on a Senior U.S. Stock Exchange.
-* Shareholder Zoom Call Scheduled for 4:30 PM Easter Time, Monday May 23, 2022.
-New… [+6365 chars]",0.0,0.0,1.0,0.0
-15,2022-05-16,REGI,"AMES, Iowa--(BUSINESS WIRE)--Renewable Energy Group, Inc. (REG) (NASDAQ: REGI) is pleased to announce the issuance of its 2021 environmental, social and governance (ESG) report. As the world transiti… [+3814 chars]",0.6124,0.0,0.848,0.152
-16,2022-05-17,REGI,"AMES, Iowa--(BUSINESS WIRE)--Renewable Energy Group, Inc. (REG) (Nasdaq: REGI), a leading bio-based diesel producer in North America, announced that its stockholders voted to adopt the previously ann… [+6537 chars]",0.4215,0.0,0.872,0.128
-17,2022-05-06,REGI,"Image source: The Motley Fool.
-Enviva Inc. (EVA -9.77%)Q1 2022 Earnings CallMay 05, 2022, 10:00 a.m. ET
-Contents:
-<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participants</… [+57827 chars]",-0.4404,0.108,0.892,0.0
-18,2022-05-03,REGI,"HOUSTON, May 3, 2022 /PRNewswire/ -- Orbital Energy Group, Inc. (Nasdaq: OEG) (""Orbital Energy"" or the ""Company"") today announced that it has closed its previously announced registered direct offerin… [+4095 chars]",0.4939,0.0,0.873,0.127
-19,2022-05-04,REGI,"AMES, Iowa--(BUSINESS WIRE)--Renewable Energy Group, Inc. (""REG"" or the ""Company"") (NASDAQ: REGI) today announced its financial results for the quarter ended March 31, 2022.
-Revenues for the first q… [+27451 chars]",0.2732,0.0,0.935,0.065
-0,2022-05-11,MTRX,"Actor Deepika Padukone has been appointed Louis Vuitton's first ever Indian brand ambassador, the French luxury house announced Tuesday. 
-The 36-year-old Bollywood star's role was unveiled as part o… [+2643 chars]",0.0,0.0,1.0,0.0
-1,2022-05-31,MTRX,"Omnichannels steady march to ubiquity has continued over the past decade. It seems like literally every brand is now omnichannel. Or are they?
-According to a report by McKinsey&amp;Company:
-We find… [+8931 chars]",0.3612,0.0,0.925,0.075
-2,2022-05-15,MTRX,"Goldman Sachs will let its senior bankers take an unlimited number of days off, according to a leaked memo seen by the Telegraph. 
-The ""flexible vacation"" scheme, which took effect on May 1, lifts a… [+1622 chars]",-0.0258,0.06,0.857,0.083
-3,2022-05-18,MTRX,"May 18 (Reuters) - Premier Foods (PFD.L), the maker of Mr Kipling cakes and OXO cubes, said on Wednesday it will raise prices of its products as part of plans to tackle rising costs of wheat, dairy a… [+1918 chars]",0.0,0.0,1.0,0.0
-4,2022-05-28,MTRX,Automation in 2022 is different from the robot takeover that some people have envisioned. Automation in the workplace now refers to platforms and systems that allow a layman to accelerate efficiency … [+6176 chars],0.5267,0.0,0.872,0.128
-5,2022-05-09,MTRX,"Many of us have a never-ending list of tasks that are work-related, but not quite work: writing up minutes from meetings, assembling entries for awards, serving on committees, selecting interns, orga… [+5844 chars]",0.6124,0.0,0.886,0.114
-6,2022-05-13,MTRX,Liz Paquette felt clueless when she walked into her college advisor’s office two years ago seeking his help to find an internship. She told him she had just one requirement: The company had to treat … [+9228 chars],0.4404,0.06,0.811,0.129
-7,2022-05-19,MTRX,"When Covid-19 struck in 2020, it affected every sphere of our daily lives and worldwide economy in ways most people couldn't have imagined. As the lockdowns forced everyone to work remotely, and most… [+8019 chars]",-0.6808,0.171,0.829,0.0
-8,2022-06-01,MTRX,"The news: Visa partnered with Fundbox, a fintech specializing in small-business loans and spend management tools, to introduce the Fundbox Flex debit card, per a press release. The two companies will… [+3141 chars]",0.0,0.0,1.0,0.0
-9,2022-05-10,MTRX,"Sure, LeBron James, Usain Bolt, Lionel Messi, Serena Williams, Michael Phelps and Simone Biles are all candidates. But an equally strong case can be made for Ashton Eaton.Eaton is a two-time gold med… [+5936 chars]",0.7269,0.0,0.84,0.16
-10,2022-05-28,MTRX,"Call it the Great Resignation, Great Reshuffle, Great Realization, or any of the other names that have been coined, the message is the same: Employees have been leaving their jobs in record rates. At… [+12512 chars]",0.9022,0.047,0.688,0.265
-11,2022-05-23,MTRX,"Over the past two years, the scope of a corporate travel manager's role has evolved. Now that many professionals are emerging from the crisis mode of the past two years, they're preparing for the fut… [+5259 chars]",-0.6249,0.105,0.895,0.0
-12,2022-05-11,MTRX,"Almost half of mothers with young children who left the work force cited child care as a reason for the move, according to a survey released Wednesday, and 69 percent of women looking for a job said … [+2835 chars]",0.4939,0.0,0.916,0.084
-13,2022-05-11,MTRX,Many executives and child-care activists had hoped that President Bidens sprawling infrastructure plan would provide support for the industry. But the pared-back bill was signed into law without big … [+1620 chars],0.3919,0.0,0.888,0.112
-14,2022-05-06,MTRX,"We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!
-A conve… [+6860 chars]",0.8655,0.0,0.731,0.269
-15,2022-05-16,MTRX,"Growing demand for lithium for batteries means the sector will need $42 billion of investment to meet the anticipated level of orders by the end of the decade, according to a report.
-Lithium is used… [+3469 chars]",0.0516,0.04,0.914,0.046
-16,2022-05-25,MTRX,"Its never easy for an executive to witness losing two-thirds of his companys value in just five months.But Chris Kemp, founder, chair and chief executive of Astra Space 
- ASTR,
- -3.69%
-,
- based i… [+3280 chars]",-0.383,0.13,0.807,0.062
-17,2022-05-26,MTRX,"Digital twins a digital replica of the factory floor are an important part of the rapid digital transformation of traditional manufacturing known as Industry 4.0 So what about Pharma 4.0?
-Pharmaceut… [+5119 chars]",0.2023,0.0,0.945,0.055
-18,2022-05-18,MTRX,"There is a misconception that being in the ""cloud"" automatically means that you are saving money. In fact, in 2022, one of the top initiatives many companies seek to achieve is reducing cloud costs. … [+5708 chars]",0.2023,0.0,0.95,0.05
-19,2022-06-01,MTRX,"Looking for inspiration and new insight to forge new B2B marketing successes as we drive ahead to 2023?
-Were taking a look at five forthcoming or recently-published books that offer an array of fasc… [+5011 chars]",0.7906,0.0,0.825,0.175
-0,2022-05-23,BLK,"NEW YORK, May 23 (Reuters) - BlackRock Investment Institute cut its ratings of developed market (DM) equities to ""neutral"" from ""overweight"" on Monday, citing the U.S. Federal Reserve's potentially o… [+733 chars]",-0.2732,0.065,0.935,0.0
-1,2022-05-18,BLK,"LONDON, May 18 (Reuters) - Assets under management held by global fixed income exchange traded funds are expected to triple to $5 trillion by 2030, according to the world's largest asset manager, Bla… [+992 chars]",0.4939,0.0,0.884,0.116
-2,2022-05-20,BLK,"LONDON, May 20 (Reuters) - BlackRock's iShares will close its MSCI Russia and MSCI Eastern Europe exchange-traded funds because of the Ukraine conflict, BlackRock said on Friday.
-BlackRock suspended… [+1056 chars]",-0.3182,0.073,0.927,0.0
-3,2022-05-10,BLK,"LONDON, May 10 (Reuters) - BlackRock (BLK.N) said on Tuesday it expected to support fewer shareholder resolutions on issues such as climate change in the current season of annual general meetings, as… [+1877 chars]",0.4019,0.0,0.922,0.078
-4,2022-05-24,BLK,"LONDON/BOSTON, May 24 (Reuters) - Leading U.S. environmental group the Sierra Club has warned BlackRock Inc (BLK.N) it may pull a $12 million investment after the money manager said it would likely s… [+2013 chars]",-0.2732,0.062,0.938,0.0
-5,2022-05-11,BLK,"May 11 (Reuters) - Top asset manager BlackRock Inc (BLK.N) said on Wednesday it has more than $800 million in commitments for a new impact fund, part of a growing investor focus on diversity and equi… [+1717 chars]",0.6705,0.0,0.805,0.195
-6,2022-05-09,BLK,"LONDON, May 9 (Reuters) - BlackRock trimmed its exposure to Chinese stocks and government bonds, and Asian fixed income more widely, to neutral from a slight overweight, citing a worsening macroecono… [+939 chars]",-0.6705,0.169,0.831,0.0
-7,2022-05-23,BLK,"G'morning, readers. Two of the biggest Wall Street firms are forecasting stormy markets to come but one top analyst is far more optimistic thanks to his outlook on labor trends.
-Let's get started. … [+4643 chars]",0.8707,0.0,0.765,0.235
-8,2022-05-06,BLK,"2. Big Oils future is still uncertain.
-Two things can be true at the same time. Thats how the world works.
-Its true that oil company profits are booming. Its also true that the energy transition aw… [+1330 chars]",0.8807,0.045,0.679,0.276
-9,2022-05-25,BLK,"BOSTON, May 25 (Reuters) - Index fund BlackRock (BLK.N) and other major McDonald's (MCD.N) shareholders are backing the company in a boardroom vote that puts the fast-food chain on course to defeat i… [+445 chars]",-0.4404,0.085,0.883,0.031
-10,2022-05-05,BLK,"Claims online that billionaire Microsoft co-founder Bill Gates owns the majority of U.S. farmland and that BlackRock, the worlds largest asset manager, owns the majority of U.S. single-family houses … [+4585 chars]",0.3612,0.0,0.923,0.077
-11,2022-05-19,BLK,"May 19 (Reuters) - BlackRock Inc (BLK.N), JPMorgan Chase &amp; Co (JPM.N) and other top financial firms have told a Texas official they are not boycotting energy companies, responding to a request fo… [+2980 chars]",0.3058,0.052,0.832,0.116
-12,2022-05-23,BLK,"The 
-Federal Reserve is stuck between a rock and a hard place as it attempts to balance raising interest rates with 40-year highs in inflation and the potential for an economic 
-recession.
-The dif… [+2259 chars]",-0.296,0.158,0.765,0.077
-13,2022-05-12,BLK,"NEW YORK, May 12 (Reuters) - As TikTok accounts focused on money gain huge followings, stodgy financial firms are wedging themselves into youth-oriented social media platforms for a piece of the acti… [+4003 chars]",0.8074,0.0,0.777,0.223
-14,2022-05-30,BLK,"DUBAI, May 30 (Reuters) - Abu Dhabi-based petrochemicals company Borouge has attracted demand of $80 billion for its initial public offering, two sources told Reuters, as retail investors snapped up … [+1731 chars]",0.3182,0.045,0.871,0.084
-15,2022-05-03,BLK,"The company and law firm names shown above are generated automatically based on the text of the article. We are improving this feature as we continue to test and develop in beta. We welcome feedback,… [+2246 chars]",0.7003,0.0,0.858,0.142
-16,2022-05-10,BLK,"A look at the day ahead in markets from Sujata Rao.
-Earlier this year, investors' fears of an aggressive Fed rate hike cycle were tempered by signs China was looking to ease policy. That would offse… [+2541 chars]",-0.2263,0.108,0.831,0.061
-17,2022-05-06,BLK,"ZURICH, May 6 (Reuters) - Swiss wealth and asset manager Pictet has named Edmund Buckley head of the Direct Private Equity division as the Geneva-based group expands its alternative investment busine… [+1490 chars]",0.7269,0.0,0.798,0.202
-18,2022-05-10,BLK,"NEW YORK, May 10 (Reuters) - Emerging market debt and equity portfolios saw foreign investor outflows for a second straight month in April, data from the Institute of International Finance showed on … [+1599 chars]",-0.1531,0.073,0.872,0.055
-19,2022-05-26,BLK,"BOSTON, May 26 (Reuters) - Shareholders have reelected all of McDonald's Corp (MCD.N)'s directors, the company said on Thursday, ending a boardroom battle with billionaire investor Carl Icahn who had… [+1574 chars]",-0.3818,0.082,0.918,0.0
-0,2022-05-11,PYPL,"Graphics by Michele Doying / The Verge
-
- 
-
- Fintech is in its flop era, and it would be funny, except that it’s dragging real people down with it. 
-It’s true that stocks are down generally — the S&P… [+6035 chars]",0.5106,0.057,0.808,0.135
-1,2022-05-10,PYPL,"The news: PayPal's small-business point-of-sale (POS) brand, Zettle, launched a software POS (softPOS) solution for merchants in the Netherlands, the UK, and Sweden, per a press release.
-Insider Int… [+2661 chars]",0.4215,0.0,0.877,0.123
-2,2022-05-03,PYPL,"Apple Pay competitor PayPal played a role in the EU's decision to target Apple with antitrust complaints about its mobile wallet, reports Bloomberg. PayPal was one of ""multiple companies"" that filed … [+2624 chars]",-0.1779,0.115,0.817,0.068
-3,2022-05-30,PYPL,"As the Republican party primaries play out across the US, the most sought after endorsement is still that of former president Donald Trump. But when it comes to the most vital part of any American ca… [+6985 chars]",0.763,0.0,0.799,0.201
-4,2022-05-05,PYPL,"According to David Allison, author and founder of The Valuegraphics Database, what we value determines everything we do. ""Whether we are conscious of it or not, the majority of decisions we make are … [+4132 chars]",0.34,0.0,0.934,0.066
-5,2022-05-26,PYPL,"The web was born to publish documentsin particular, physics papers from CERN, the great laboratory where Tim Berners-Lee, the very first web developer, was employed to do smart information things. Bu… [+3508 chars]",0.7783,0.0,0.82,0.18
-6,2022-06-01,PYPL,"I do think Bitcoin is the first encrypted money that has the potential to do something like change the world, said co-founder of PayPal, Peter Thiel. 
-And he was right.
-Cryptocurrencies are a topic… [+5974 chars]",0.3612,0.0,0.93,0.07
-7,2022-05-16,PYPL,"Uber continues to show that it has grand ambitions that go far beyond the ride-sharing service that it first became known for. At the company's second annual, product-focused Go/Get event, Uber annou… [+5512 chars]",0.4588,0.0,0.917,0.083
-8,2022-05-10,PYPL,"May 10 (Reuters) - Digital asset trading platform Talos said on Tuesday it has raised $105 million in an early-stage funding round led by U.S. private equity firm General Atlantic, taking the company… [+1173 chars]",0.3612,0.0,0.93,0.07
-9,2022-05-18,PYPL,"The drive to protect children online will soon collide with an equal and opposing political force: the criminalization of abortion. In a country where many states will soon treat fetuses as children,… [+5653 chars]",0.6124,0.036,0.82,0.145
-10,2022-05-11,PYPL,"May 11 (Reuters) - Top asset manager BlackRock Inc (BLK.N) said on Wednesday it has more than $800 million in commitments for a new impact fund, part of a growing investor focus on diversity and equi… [+1717 chars]",0.6705,0.0,0.805,0.195
-11,2022-05-16,PYPL,"LONDON, May 16 (Reuters) - Grayscale will list an exchange-traded fund (ETF) in Europe made up of companies representing the ""Future of Finance"", the world's largest cryptocurrency asset manager said… [+1507 chars]",0.3612,0.0,0.923,0.077
-12,2022-06-02,PYPL,"NANYUKI, Kenya, June 2 (Reuters) - Kenya's biggest telecoms operator Safaricom (SCOM.NR) has launched a virtual payment card with Visa Inc (V.N), offering the more than 30 million users of its M-Pesa… [+1683 chars]",0.128,0.0,0.952,0.048
-13,2022-05-11,PYPL,"That's pretty straightforward, but from here on out, it gets a bit confusing. [...] [Back in 2018, Google Wallet was folded into Google Pay.] Currently, Google Pay is available in 42 markets, Google … [+1016 chars]",-0.2144,0.107,0.837,0.057
-14,2022-05-31,PYPL,"I bought tickets for Genesiss The Last Domino tour at the O2 in London last year but because of Covid it was postponed twice.
-After it was rescheduled a second time I decided to sell my tickets as f… [+1546 chars]",-0.296,0.056,0.944,0.0
-15,2022-05-23,PYPL,"GameStop is going all-in on crypto. The video game retailer launched its own self-custodial Ethereum digital wallet, it said Monday. The wallet will be accessible through a Google Chrome extension an… [+1491 chars]",0.128,0.0,0.954,0.046
-16,2022-06-02,PYPL,"For settling debts with friends, cash is on its way out. Americans' use of paper money for person-to-person payments dropped below 50% for the first time ever in 2021, according to the Federal Reserv… [+5173 chars]",0.4767,0.0,0.919,0.081
-17,2022-06-01,PYPL,"Harvard lecturer Bruce Schneier, former Microsoft engineer Miguel de Icaza and principal engineer at Google Cloud Kelsey Hightower, are among 26 leading computer scientists and academics who have sig… [+1538 chars]",0.0,0.0,1.0,0.0
-18,2022-05-20,PYPL,"LONDON, May 20 (Reuters Breakingviews) - Do we choose to pay for our coffee with cards rather than cash? Most consumers would say they do. But Brett Scott disagrees. In Cloudmoney: Cash, Cards, Crypt… [+4410 chars]",-0.4854,0.112,0.888,0.0
-19,2022-05-27,PYPL,From the FAQ:4. I have purchased before in Google Play with PayPal. Does the promo apply?-The promotion only applies for your very first purchase in Google Play with PayPal. If you have used PayPal t… [+54 chars],0.5859,0.0,0.876,0.124
-0,2022-05-05,MELI,"May 5 (Reuters) - MercadoLibre Inc (MELI.O)said it was so far managing to recoup higher costs by boosting its prices as the South American e-commerce giant reversed a year-ago loss, helped by growth … [+1989 chars]",0.4019,0.063,0.799,0.138
-1,2022-05-25,MELI,"In this article I will analyze and compare Jumia Technologies and MercadoLibre to determine which e-commerce stock is currently a better investment.
-shutterstock.com - StockNews
-The e-commerce indu… [+4798 chars]",0.4404,0.0,0.9,0.1
-2,2022-05-05,MELI,"Cybersecurity Dive
-In-depth journalism and daily insights into the most impactful news and trends shaping cybersecurity, covering the topics executives need to know: breaches, vulnerability, regulat… [+34 chars]",-0.2263,0.066,0.934,0.0
-3,2022-05-06,MELI,"Image source: The Motley Fool.
-MercadoLibre (MELI -10.75%)Q1 2022 Earnings CallMay 05, 2022, 4:30 p.m. ET
-Contents:
-<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participants… [+39267 chars]",-0.4404,0.112,0.888,0.0
-4,2022-05-09,MELI,"First published on Simply Wall St News
-Key Takeaways:
-<ul><li>MercadoLibre beat estimates and is growing at high rates
-</li><li>Growth is expected to decelerate, but that is already built-in to th… [+4869 chars]",0.09,0.0,0.958,0.042
-5,2022-05-05,MELI,"By Aluisio Alves
-(Reuters) - MercadoLibre Inc said it was so far managing to recoup higher costs by boosting its prices as the South American e-commerce giant reversed a year-ago loss, helped by gro… [+1831 chars]",0.0258,0.063,0.872,0.065
-6,2022-05-06,MELI,"Investment luminary Cathie Wood, chief executive of Ark Investment Management, on Thursday bought and sold familiar names, including a Latin American e-commerce company.
-Wood snagged several technol… [+2203 chars]",0.0,0.0,1.0,0.0
-7,2022-05-17,MELI,"High growth companies in emerging markets are on sale.
-getty
-Every market selloff presents opportunities. 
-The iShares Emerging Markets ETF 
- EEM
- is down -17% year-to-date. Even though Emerging… [+5188 chars]",0.6369,0.0,0.843,0.157
-8,2022-05-10,MELI,"NEW YORK , May 9, 2022 /PRNewswire/ -- The Retail Market in Mexico is segmented into two categories based on the product (PAT, personal and household care, AFA, electrical and electronics, and others… [+13570 chars]",0.4939,0.0,0.912,0.088
-9,2022-05-20,MELI,"metamorworks/iStock via Getty Images
-MELI - Leading Fintech in the Emerging Markets Space
- Over the last 12 months, there has been an unprecedented sell-off in fintech and e-commerce stocks globall… [+13278 chars]",0.0,0.0,1.0,0.0
-10,2022-05-06,MELI,"In this article, we will take a look at the 11 earnings reports catching investors' attention. You can skip our detailed analysis of these companies and go directly to the 5Earnings Reports Catching … [+7905 chars]",0.0,0.0,1.0,0.0
-11,2022-05-03,MELI,"In this article, we will discuss the 15 most valuable e-commerce companies in the world. You can skip our detailed analysis of these companies, and go directly to 5 Most Valuable E-Commerce Companies… [+9399 chars]",0.7774,0.0,0.825,0.175
-12,2022-05-05,MELI,"Chief Financial Officer Pedro Arnt said in a call with analysts that MercadoLibre was trying to pass on costs due to increases in transport, labor and oil prices.
-I think weve done a good job of try… [+1583 chars]",0.4404,0.0,0.923,0.077
-13,2022-05-06,MELI,"MercadoLibre, Inc. (NASDAQ:MELI) Q1 2022 Results Conference Call May 5, 2022 4:30 PM ET
- Company Participants
- Lissa Schreurs - Head of Investor Relations
- Pedro Arnt - Chief Financial Officer
- O… [+37869 chars]",0.0,0.0,1.0,0.0
-14,2022-06-02,MELI,"Mark Zuckerberg, chief executive officer of Facebook Inc., right, pauses while speaking as Javier Olivan, vice president of growth and analytics at Facebook Inc., looks on at Billionaire Carlos Slim'… [+5259 chars]",0.3818,0.0,0.923,0.077
-15,2022-05-06,MELI,"Roman Didkivskyi/iStock via Getty Images
-For the majority of the US stock market, the bear market has formally just begun with the NASDAQ finally dipping convincingly below a 20% drop from all-time … [+14859 chars]",0.128,0.059,0.868,0.073
-16,2022-05-10,MELI,"Parent Market Analysis
-Technavio categorizes the global Retail Market in Mexico market as a part of the global internet and direct marketing retail market within the global consumer discretionary ma… [+16943 chars]",0.0,0.0,1.0,0.0
-17,2022-05-31,MELI,"ValeryEgorov/iStock Editorial via Getty Images
-Step One: Wide-moat stocks with 5-star and 4-star ratings
- Historical evidence says that while quality alone is a poor indicator of outperformance, wh… [+12951 chars]",-0.6249,0.159,0.841,0.0
-18,2022-05-18,MELI,"metamorworks/iStock via Getty Images
-Dear Baron Fintech Fund Shareholder:
- Performance 
- In the quarter ended March 31, 2022, Baron FinTech Fund (the “Fund”) fell 16.67% (Institutional Shares) com… [+35073 chars]",0.3818,0.0,0.915,0.085
-19,2022-05-20,MELI,"olm26250/iStock via Getty Images
-Dear Baron Opportunity Fund Shareholder:
- Performance
- Baron Opportunity Fund (the “Fund”) fell sharply and significantly lagged the broader market during the firs… [+40998 chars]",0.7184,0.064,0.698,0.238
-0,2022-05-04,SOFI,"You may want to refinance your student loan for a variety of reasons. Perhaps you're looking to lower your interest rate, switch from a variable-rate to a fixed-rate loan, or to change up your paymen… [+18262 chars]",0.2732,0.059,0.827,0.115
-1,2022-05-16,SOFI,"SoFi Technologies Inc. shares have taken too much of a beating, according to a Piper Sandler analyst who upgraded the stock Monday. Piper Sandlers Kevin Barker said in a Monday note to clients that t… [+2269 chars]",-0.2023,0.081,0.86,0.059
-2,2022-05-21,SOFI,"The British-Iranian composer, artist and turntablist Shiva Feshareki is at home in many musical disciplines, embracing every variety of technology and harnessing it, with restless invention, to her o… [+2583 chars]",-0.2732,0.065,0.935,0.0
-3,2022-05-20,SOFI,"Members of the winning bid from Canada, Mexico and the United States after being chosen to host the 2026 World Cup. EPA/SERGEI CHIRIKOV
-FIFA intends to announce the 2026 World Cup sites during a new… [+2212 chars]",0.7351,0.0,0.846,0.154
-4,2022-05-20,SOFI,"FIFA will announce its host cities for the 2026 World Cup on June 16 with Edmonton, Toronto and Vancouver the three Canadian options waiting to hear their name. 
-In all, 22 candidate cities have rai… [+5473 chars]",0.0,0.0,1.0,0.0
-5,2022-05-13,SOFI,The 2022 NFL schedule has finally arrived and Caesars Sportsbook has released the latest point totals and spread for all of the Week 1 games. Bettors will have plenty of time to make calls on which g… [+3212 chars],0.0,0.0,1.0,0.0
-6,2022-05-15,SOFI,"Early in their marriage, IT client specialist Amy Crockett and her wife, Emily Crockett, quickly racked up $40,000 of credit card debt.
-""Neither of us were paying attention to what we were buying. W… [+2767 chars]",0.0258,0.064,0.87,0.066
-7,2022-05-20,SOFI,"Fifa intends to announce the 2026 World Cup sites during a news conference in New York on 16 June.
-Seventeen US stadiums in 16 areas remain in the bidding for the first 48-team World Cup, with the L… [+2079 chars]",0.0,0.0,1.0,0.0
-8,2022-05-26,SOFI,"May 26 (Reuters) - Private equity firm Silver Lake has spent years cultivating and backing chief executives enamored with big deals, a strategy that pays off handsomely when large acquisitions such a… [+4810 chars]",0.4588,0.0,0.882,0.118
-9,2022-05-31,SOFI,"If you have existing credit card, medical or other personal debt, keeping track of payments and getting hit with high-interest charges can feel overwhelming. To help, consider consolidating your debt… [+10185 chars]",0.1779,0.121,0.739,0.14
-10,2022-05-05,SOFI,Sports entertainment and media company World Wrestling Entertainment (NYSE: WWE) stock has maintained a choppy range between $45 to $65 for over a year. The iconic wrestling brand survived the stay-a… [+5223 chars],0.836,0.0,0.759,0.241
-11,2022-05-08,SOFI,"What happened
-Shares of SoFi Technologies(SOFI -5.71%) plunged 35.2% during April, according to data from S&amp;P Global Market Intelligence.
-At the beginning of the month, management updated its 2… [+3010 chars]",0.6486,0.0,0.845,0.155
-12,2022-05-27,SOFI,"Financial technology companies, more commonly known as fintechs, have been hit hard by this bear market for tech stocks, with the Nasdaq Composite index down almost 25% year to date. Two of the harde… [+4506 chars]",-0.1027,0.038,0.962,0.0
-13,2022-05-16,SOFI,"It's a frustrating experience when your debit card is denied from making a purchase even when you know there's money in your bank account happily waiting to be spent.
-On the bright side, the reason … [+3855 chars]",0.1779,0.134,0.716,0.15
-14,2022-05-22,SOFI,"In the first quarter of the year, Warren Buffett and his company Berkshire Hathaway(BRK.A 0.10%)(BRK.B -0.03%) opened up a position in the large consumer digital bank Ally Financial(ALLY 0.03%). It w… [+4141 chars]",0.0,0.0,1.0,0.0
-15,2022-05-18,SOFI,"A year ago, Heather Hasson and Catherine Trina Spear flew from Santa Moncia, Calif., to New York to ring the opening bell of the New York Stock Exchange. The co-chief executives of FIGS, an online se… [+10682 chars]",0.0,0.0,1.0,0.0
-16,2022-05-14,SOFI,"Like many other tech and fintech stocks this year, the one-stop financial services company SoFi(SOFI 19.26%) has seen its stock price hammered amid a difficult macro outlook. The stock is down more t… [+4843 chars]",0.0,0.068,0.865,0.068
-17,2022-05-10,SOFI,"What happened
-Shares of several consumer fintech companies fell today after the popular artificial intelligence lender Upstart(UPST -59.51%) disappointed the market with its latest earnings results … [+3773 chars]",0.6124,0.088,0.682,0.23
-18,2022-05-19,SOFI,"Investor sentiment has cratered in recent times in the wake of 40-year-high inflation, the Federal Reserve's decision to raise interest rates in response, and prolonged concerns in connection to Russ… [+3816 chars]",0.4588,0.0,0.912,0.088
-19,2022-05-26,SOFI,"To further strengthen our commitment to providing industry-leading coverage of data technology, VentureBeat is excited to welcome Andrew Brust and Tony Baer as regular contributors. Watch for their a… [+5278 chars]",0.8519,0.0,0.724,0.276
+,date,ticker,pos,neg,neu,compound
+0,2022-05-06,ABNB,0.0,0.0,1.0,0.0
+1,2022-05-11,ABNB,0.07516666666666667,0.026,0.8986666666666667,0.1990333333333333
+2,2022-05-12,ABNB,0.21,0.159,0.631,0.4912
+3,2022-05-14,ABNB,0.16899999999999998,0.0,0.831,0.70995
+4,2022-05-16,ABNB,0.0,0.0,1.0,0.0
+5,2022-05-18,ABNB,0.0,0.048,0.952,-0.2787
+6,2022-05-24,ABNB,0.014333333333333332,0.0,0.9856666666666666,0.042666666666666665
+7,2022-05-27,ABNB,0.0,0.0,1.0,0.0
+8,2022-06-01,ABNB,0.053,0.0,0.947,0.2023
+9,2022-06-02,ABNB,0.044,0.127,0.829,-0.4939
+10,2022-06-03,ABNB,0.0,0.0,1.0,0.0
+11,2022-05-05,BLK,0.077,0.0,0.923,0.3612
+12,2022-05-06,BLK,0.23900000000000002,0.0225,0.7385,0.8038000000000001
+13,2022-05-09,BLK,0.0,0.169,0.831,-0.6705
+14,2022-05-10,BLK,0.06466666666666666,0.06033333333333333,0.875,0.0074999999999999884
+15,2022-05-11,BLK,0.195,0.0,0.805,0.6705
+16,2022-05-12,BLK,0.223,0.0,0.777,0.8074
+17,2022-05-18,BLK,0.116,0.0,0.884,0.4939
+18,2022-05-19,BLK,0.116,0.052,0.832,0.3058
+19,2022-05-20,BLK,0.0,0.073,0.927,-0.3182
+20,2022-05-23,BLK,0.104,0.07433333333333333,0.8216666666666667,0.10050000000000002
+21,2022-05-24,BLK,0.0,0.062,0.938,-0.2732
+22,2022-05-25,BLK,0.031,0.085,0.883,-0.4404
+23,2022-05-26,BLK,0.0,0.082,0.918,-0.3818
+24,2022-05-30,BLK,0.084,0.045,0.871,0.3182
+25,2022-06-02,BLK,0.161,0.0,0.839,0.6369
+26,2022-05-04,DVN,0.07333333333333333,0.058666666666666666,0.8683333333333333,0.003533333333333314
+27,2022-05-06,DVN,0.0,0.0,1.0,0.0
+28,2022-05-07,DVN,0.0,0.0,1.0,0.0
+29,2022-05-08,DVN,0.157,0.103,0.74,0.4663
+30,2022-05-10,DVN,0.0,0.0,1.0,0.0
+31,2022-05-12,DVN,0.108,0.092,0.8,-0.1027
+32,2022-05-16,DVN,0.212,0.0,0.788,0.7003
+33,2022-05-17,DVN,0.0,0.0,1.0,0.0
+34,2022-05-19,DVN,0.115,0.0,0.885,0.3612
+35,2022-05-24,DVN,0.16974999999999998,0.0,0.83025,0.638925
+36,2022-05-25,DVN,0.244,0.0,0.756,0.7717
+37,2022-06-01,DVN,0.164,0.082,0.754,0.4019
+38,2022-05-07,FANG,0.0,0.0,1.0,0.0
+39,2022-05-08,FANG,0.157,0.103,0.74,0.4663
+40,2022-05-10,FANG,0.0,0.091,0.909,-0.5719
+41,2022-05-11,FANG,0.066,0.0,0.934,0.368
+42,2022-05-12,FANG,0.1015,0.0785,0.8195,-0.04469999999999999
+43,2022-05-16,FANG,0.07425000000000001,0.02225,0.9035,0.16265000000000002
+44,2022-05-22,FANG,0.132,0.0,0.868,0.4767
+45,2022-05-23,FANG,0.059,0.0,0.9410000000000001,0.28595
+46,2022-05-24,FANG,0.033,0.0,0.9670000000000001,0.148
+47,2022-05-25,FANG,0.0,0.0,1.0,0.0
+48,2022-05-26,FANG,0.191,0.0,0.809,0.6549
+49,2022-05-27,FANG,0.208,0.0,0.792,0.7845
+50,2022-05-30,FANG,0.059,0.0,0.9410000000000001,0.28595
+51,2022-05-05,FB,0.088,0.0,0.912,0.48355
+52,2022-05-06,FB,0.0,0.212,0.788,-0.8316
+53,2022-05-10,FB,0.135,0.0,0.865,0.6486
+54,2022-05-11,FB,0.0,0.0,1.0,0.0
+55,2022-05-12,FB,0.046000000000000006,0.016666666666666666,0.9373333333333335,0.1797
+56,2022-05-13,FB,0.0,0.082,0.918,-0.4939
+57,2022-05-17,FB,0.0,0.1,0.9,-0.5994
+58,2022-05-18,FB,0.06,0.0585,0.881,-0.000899999999999998
+59,2022-05-23,FB,0.079,0.127,0.794,-0.2263
+60,2022-05-31,FB,0.0,0.0,1.0,0.0
+61,2022-06-01,FB,0.012,0.04425,0.94375,-0.193625
+62,2022-06-03,FB,0.0615,0.0,0.9385,0.23195000000000002
+63,2022-05-08,MCHP,0.063,0.0,0.937,0.3182
+64,2022-05-09,MCHP,0.09566666666666668,0.018666666666666668,0.8856666666666667,0.3488
+65,2022-05-10,MCHP,0.0,0.108,0.892,-0.4404
+66,2022-05-15,MCHP,0.0,0.0,1.0,0.0
+67,2022-05-16,MCHP,0.14,0.099,0.761,0.1531
+68,2022-05-17,MCHP,0.152,0.0755,0.772,0.3393
+69,2022-05-18,MCHP,0.0,0.0,1.0,0.0
+70,2022-05-19,MCHP,0.065,0.154,0.782,-0.5106
+71,2022-05-20,MCHP,0.0,0.0,1.0,0.0
+72,2022-05-21,MCHP,0.1,0.087,0.812,0.1027
+73,2022-05-23,MCHP,0.169,0.0,0.831,0.6249
+74,2022-05-25,MCHP,0.081,0.0,0.919,0.32985
+75,2022-05-26,MCHP,0.062,0.0,0.938,0.2732
+76,2022-05-28,MCHP,0.153,0.08,0.767,0.1531
+77,2022-05-30,MCHP,0.155,0.0,0.845,0.6597
+78,2022-05-31,MCHP,0.064,0.0,0.936,0.1779
+79,2022-05-05,MELI,0.0888,0.038400000000000004,0.8728,0.27027999999999996
+80,2022-05-06,MELI,0.014599999999999998,0.034199999999999994,0.9512,-0.06248
+81,2022-05-09,MELI,0.042,0.0,0.958,0.09
+82,2022-05-10,MELI,0.044,0.0,0.956,0.24695
+83,2022-05-17,MELI,0.157,0.0,0.843,0.6369
+84,2022-05-18,MELI,0.085,0.0,0.915,0.3818
+85,2022-05-20,MELI,0.119,0.032,0.849,0.3592
+86,2022-05-25,MELI,0.1,0.0,0.9,0.4404
+87,2022-05-31,MELI,0.0,0.159,0.841,-0.6249
+88,2022-06-02,MELI,0.077,0.0,0.923,0.3818
+89,2022-05-05,MRO,0.168,0.129,0.703,0.1779
+90,2022-05-09,MRO,0.056,0.099,0.845,-0.14275000000000004
+91,2022-05-10,MRO,0.10350000000000001,0.1575,0.7384999999999999,-0.3749
+92,2022-05-12,MRO,0.0,0.0,1.0,0.0
+93,2022-05-13,MRO,0.06659999999999999,0.11939999999999999,0.8140000000000001,-0.2922
+94,2022-05-14,MRO,0.195,0.0,0.805,0.7579
+95,2022-05-19,MRO,0.0415,0.0895,0.8685,-0.28595
+96,2022-05-24,MRO,0.244,0.0,0.756,0.7717
+97,2022-05-25,MRO,0.244,0.0,0.756,0.7717
+98,2022-05-26,MRO,0.068,0.0,0.932,0.2732
+99,2022-06-02,MRO,0.121,0.0,0.879,0.5719
+100,2022-06-03,MRO,0.1025,0.0,0.8975,0.38585
+101,2022-05-06,MTRX,0.269,0.0,0.731,0.8655
+102,2022-05-09,MTRX,0.114,0.0,0.886,0.6124
+103,2022-05-10,MTRX,0.16,0.0,0.84,0.7269
+104,2022-05-11,MTRX,0.06533333333333334,0.0,0.9346666666666668,0.2952666666666667
+105,2022-05-13,MTRX,0.129,0.06,0.811,0.4404
+106,2022-05-15,MTRX,0.083,0.06,0.857,-0.0258
+107,2022-05-16,MTRX,0.046,0.04,0.914,0.0516
+108,2022-05-18,MTRX,0.025,0.0,0.975,0.10115
+109,2022-05-19,MTRX,0.0,0.171,0.829,-0.6808
+110,2022-05-23,MTRX,0.0,0.105,0.895,-0.6249
+111,2022-05-25,MTRX,0.062,0.13,0.807,-0.383
+112,2022-05-26,MTRX,0.055,0.0,0.945,0.2023
+113,2022-05-28,MTRX,0.1965,0.0235,0.78,0.71445
+114,2022-05-31,MTRX,0.075,0.0,0.925,0.3612
+115,2022-06-01,MTRX,0.0875,0.0,0.9125,0.3953
+116,2022-05-08,NFLX,0.064,0.0,0.936,0.34
+117,2022-05-09,NFLX,0.0,0.0,1.0,0.0
+118,2022-05-10,NFLX,0.07433333333333332,0.04466666666666667,0.8813333333333334,0.18946666666666667
+119,2022-05-13,NFLX,0.095,0.045,0.8594999999999999,0.1863
+120,2022-05-14,NFLX,0.077,0.0,0.923,0.3612
+121,2022-05-16,NFLX,0.087,0.063,0.851,0.243
+122,2022-05-18,NFLX,0.0,0.186,0.814,-0.743
+123,2022-05-19,NFLX,0.0635,0.0535,0.883,-0.0382
+124,2022-05-20,NFLX,0.113,0.0,0.887,0.4939
+125,2022-05-22,NFLX,0.0,0.0,0.0,0.0
+126,2022-05-24,NFLX,0.104,0.0,0.896,0.6369
+127,2022-05-26,NFLX,0.037,0.0,0.963,0.1027
+128,2022-05-28,NFLX,0.092,0.085,0.823,0.0772
+129,2022-06-02,NFLX,0.075,0.07300000000000001,0.8516666666666666,0.10110000000000001
+130,2022-05-05,PYPL,0.066,0.0,0.934,0.34
+131,2022-05-10,PYPL,0.0965,0.0,0.9035,0.39135
+132,2022-05-11,PYPL,0.129,0.05466666666666667,0.8166666666666668,0.3222333333333333
+133,2022-05-16,PYPL,0.05333333333333334,0.03133333333333333,0.9153333333333333,0.11443333333333333
+134,2022-05-18,PYPL,0.145,0.036,0.82,0.6124
+135,2022-05-20,PYPL,0.0,0.112,0.888,-0.4854
+136,2022-05-23,PYPL,0.046,0.0,0.954,0.128
+137,2022-05-26,PYPL,0.18,0.0,0.82,0.7783
+138,2022-05-27,PYPL,0.124,0.0,0.876,0.5859
+139,2022-05-30,PYPL,0.201,0.0,0.799,0.763
+140,2022-05-31,PYPL,0.0,0.056,0.944,-0.296
+141,2022-06-01,PYPL,0.035,0.0,0.9650000000000001,0.1806
+142,2022-06-02,PYPL,0.0645,0.0,0.9355,0.30235
+143,2022-05-04,REGI,0.0325,0.0325,0.935,-0.022499999999999992
+144,2022-05-05,REGI,0.161,0.076,0.763,0.4767
+145,2022-05-06,REGI,0.047999999999999994,0.10266666666666667,0.8493333333333334,-0.2816666666666667
+146,2022-05-10,REGI,0.041,0.07066666666666667,0.8883333333333333,-0.12896666666666667
+147,2022-05-11,REGI,0.07,0.097,0.833,-0.2023
+148,2022-05-12,REGI,0.0,0.0,1.0,0.0
+149,2022-05-13,REGI,0.145,0.0,0.855,0.5574
+150,2022-05-15,REGI,0.07,0.049,0.881,0.1779
+151,2022-05-16,REGI,0.152,0.0,0.848,0.6124
+152,2022-05-17,REGI,0.1,0.05,0.85,0.10959999999999999
+153,2022-05-19,REGI,0.07500000000000001,0.057,0.868,-0.02210000000000001
+154,2022-05-23,REGI,0.0,0.0,1.0,0.0
+155,2022-05-25,REGI,0.123,0.0,0.877,0.4939
+156,2022-05-04,SOFI,0.115,0.059,0.827,0.2732
+157,2022-05-05,SOFI,0.241,0.0,0.759,0.836
+158,2022-05-08,SOFI,0.155,0.0,0.845,0.6486
+159,2022-05-10,SOFI,0.23,0.088,0.682,0.6124
+160,2022-05-13,SOFI,0.0,0.0,1.0,0.0
+161,2022-05-14,SOFI,0.068,0.068,0.865,0.0
+162,2022-05-15,SOFI,0.066,0.064,0.87,0.0258
+163,2022-05-16,SOFI,0.1045,0.10750000000000001,0.788,-0.012200000000000003
+164,2022-05-18,SOFI,0.0,0.0,1.0,0.0
+165,2022-05-19,SOFI,0.088,0.0,0.912,0.4588
+166,2022-05-20,SOFI,0.051333333333333335,0.0,0.9486666666666667,0.24503333333333333
+167,2022-05-21,SOFI,0.0,0.065,0.935,-0.2732
+168,2022-05-22,SOFI,0.0,0.0,1.0,0.0
+169,2022-05-26,SOFI,0.197,0.0,0.8029999999999999,0.65535
+170,2022-05-27,SOFI,0.0,0.038,0.962,-0.1027
+171,2022-05-31,SOFI,0.14,0.121,0.739,0.1779
+172,2022-05-05,SPWR,0.03266666666666667,0.0,0.9673333333333334,0.13396666666666665
+173,2022-05-13,SPWR,0.133,0.0,0.867,0.5994
+174,2022-05-25,SPWR,0.17233333333333334,0.0,0.8276666666666667,0.6419666666666667
+175,2022-05-26,SPWR,0.14150000000000001,0.0,0.8585,0.5399
+176,2022-05-30,SPWR,0.098,0.0,0.902,0.36705
+177,2022-06-02,SPWR,0.042666666666666665,0.0,0.9573333333333333,0.1186
+178,2022-06-03,SPWR,0.094,0.0,0.906,0.4588
+179,2022-05-04,UBER,0.121,0.053,0.825,0.4215
+180,2022-05-05,UBER,0.055,0.06425,0.88075,-0.022275000000000003
+181,2022-05-06,UBER,0.091,0.08,0.829,0.101
+182,2022-05-09,UBER,0.058249999999999996,0.017,0.9247500000000001,0.2026
+183,2022-05-10,UBER,0.061,0.058,0.882,0.0258
+184,2022-05-12,UBER,0.0,0.157,0.843,-0.6369
+185,2022-05-13,UBER,0.0,0.167,0.833,-0.6369
+186,2022-05-14,UBER,0.081,0.062,0.857,0.2023
+187,2022-05-16,UBER,0.042666666666666665,0.0,0.9573333333333333,0.1956
+188,2022-05-17,UBER,0.0,0.048,0.952,-0.2411
+189,2022-05-25,UBER,0.0,0.04,0.96,-0.128

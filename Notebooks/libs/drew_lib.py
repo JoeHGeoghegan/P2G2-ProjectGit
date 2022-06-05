@@ -67,7 +67,11 @@ newsapi = NewsApiClient(api_key=api_key)
 #Get news articles on certain topic based on keywords
 def get_news(keywords):  
     news_article = newsapi.get_everything(
-            q = keywords, language='en', sort_by= 'relevancy'
+            q = keywords, 
+            language='en', 
+            sort_by= 'relevancy',
+            from = '2012-06-01',
+            to = '2022-06-01'
     )
     return news_article
 
