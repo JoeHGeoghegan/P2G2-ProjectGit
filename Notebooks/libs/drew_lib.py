@@ -122,3 +122,22 @@ def vader_analyzer(df):
     df['date'] = df['date'].dt.date
     
     return df
+
+
+# filters through all csv files in Cleaned_Data and returns dataframe of all data for selected stock ticker
+
+def stock_pick_df(ticker):
+    
+    stock_df_list = []
+    file_path = '../Notebooks/Data/Cleaned_Data'
+
+    for filename in os.listdir(file_path):
+        if filename.endswith(".csv") and filename != 'Ticker_library.csv':
+            csv_df = pd.read_csv(file_path +'/'+ filename, parse_dates=True, infer_datetime_format=True,index_col='date')
+            csv_df = csv_df.loc[csv_df['ticker'] == ticker]
+            csv_df.drop(columns='ticker',axis=1,inplace=True)
+            #csv_df.set_index('date',inplace=True)
+            stock_df_list.append(csv_df)
+    all_ticker_data_df = pd.concat(stock_df_list,axis=1,join='inner')
+    all_ticker_data_df.insert(0, 'ticker', ticker)
+    return all_ticker_data_df.drop(columns='Unnamed: 0')
