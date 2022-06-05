@@ -1,4 +1,4 @@
-,ticker,close,volume
+date,ticker,close,volume
 2015-12-01,NFLX,125.37,12550755
 2015-12-02,NFLX,128.93,24105712
 2015-12-03,NFLX,126.81,26644540
