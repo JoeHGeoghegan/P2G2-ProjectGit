@@ -82,9 +82,7 @@ def get_news(keywords):
     news_article = newsapi.get_everything(
             q = keywords, 
             language='en', 
-            sort_by= 'relevancy',
-            from = '2012-06-01',
-            to = '2022-06-01'
+            sort_by= 'relevancy'
     )
     return news_article
 
@@ -156,7 +154,7 @@ def stock_picker(ticker):
 
     for filename in os.listdir(file_path):
         if filename.endswith(".csv") and filename != 'Ticker_library.csv':
-            csv_df = pd.read_csv(file_path +'/'+ filename, parse_dates=True, infer_datetime_format=True,index_col='date')
+            csv_df = pd.read_csv(file_path +'/'+ filename, parse_dates=True, infer_datetime_format=True,index_col='datetime')
             csv_df = csv_df.loc[csv_df['ticker'] == ticker]
             csv_df.drop(columns='ticker',axis=1,inplace=True)
             stock_df_list.append(csv_df)
