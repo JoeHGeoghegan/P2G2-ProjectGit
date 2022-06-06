@@ -64,6 +64,19 @@ api_key = os.getenv("NEWSAPI_KEY")
 
 newsapi = NewsApiClient(api_key=api_key)
 
+
+# bin stock returns
+
+def return_bin(df):
+    
+    bins = [-1000, -0.08, -0.03, -0.0000001, 0.0000001, 0.03, 0.08, 1000]
+    labels = ['large loss','medium loss','small loss','no gain/loss','small gain','medium gain','large gain']
+    
+    df['returns'] = df['close'].pct_change()
+    df['return_bin'] = pd.cut(df['returns'], bins=bins, labels=labels)
+
+    return df
+
 #Get news articles on certain topic based on keywords
 def get_news(keywords):  
     news_article = newsapi.get_everything(
@@ -124,9 +137,19 @@ def vader_analyzer(df):
     return df
 
 
+# perform vader sentiment analysis on dataframe with text and groupby date 
+# to get average daily sentiment and unique dates for each row
+
+def daily_sentiment(df):
+    vader_df = vader_analyzer(df)
+    vader_df = vader_df.groupby(['ticker','date'])['ticker','pos','neg','neu','compound'].mean().reset_index()
+    vader_df = vader_df[['date','ticker','pos','neg','neu','compound']]
+    return vader_df
+
+
 # filters through all csv files in Cleaned_Data and returns dataframe of all data for selected stock ticker
 
-def stock_pick_df(ticker):
+def stock_picker(ticker):
     
     stock_df_list = []
     file_path = '../Notebooks/Data/Cleaned_Data'
@@ -136,7 +159,6 @@ def stock_pick_df(ticker):
             csv_df = pd.read_csv(file_path +'/'+ filename, parse_dates=True, infer_datetime_format=True,index_col='date')
             csv_df = csv_df.loc[csv_df['ticker'] == ticker]
             csv_df.drop(columns='ticker',axis=1,inplace=True)
-            #csv_df.set_index('date',inplace=True)
             stock_df_list.append(csv_df)
     all_ticker_data_df = pd.concat(stock_df_list,axis=1,join='inner')
     all_ticker_data_df.insert(0, 'ticker', ticker)
