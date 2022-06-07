@@ -221,3 +221,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/python,windows,jupyternotebooks,pythonvanilla
+
+Notebooks/Data/Cleaned_Data/stockmarket_comments.csv
