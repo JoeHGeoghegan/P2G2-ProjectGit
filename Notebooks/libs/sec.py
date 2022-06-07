@@ -10,7 +10,7 @@ import re
 from sec_edgar_downloader import Downloader
 from sec_api import ExtractorApi
 
-def create_SEC(path,tickers,filing_type,after_date,before_date=None):
+def download_SEC_text(path,tickers,filing_type,after_date,before_date=None):
     dl = Downloader(f'{path}')
     for ticker in tickers:
         dl.get(filing_type, ticker, after=after_date,before=before_date)
@@ -65,8 +65,8 @@ def extract_all_SEC_dates(df:pd.DataFrame):
 def extract_all_SEC_CIK(df:pd.DataFrame):
     df['SEC_CIK'] = df['DocText'].apply(SEC_CIK)
 
-def url_maker(df:pd.DataFrame):
-    """TODO
+def OLD_url_maker(df:pd.DataFrame):
+    """DOES NOT WORK
     URL maker assumed the htm file is name consistently...IT IS NOT. Need to webscrape the 
     (url_base + SEC_cik + "/" + SEC_DocName + "/") piece and find the htm file with the largest size (size is shown on the webpage)
     """
@@ -86,12 +86,12 @@ def url_maker(df:pd.DataFrame):
     date = df['SECdates']
     return url_base + SEC_cik + "/" + SEC_DocName + "/" + ticker + "-" + doc_type + "_" + date + '.htm'
 
-def show_URLs(df):
-    urls = url_maker(df)
+def OLD_show_URLs(df):
+    urls = OLD_url_maker(df)
     for x in urls:
         print(x)
 
-def prepare(download=False):
+def prepare_SEC_as_HTML(download=False):
     tickers = pd.read_csv('./Data/Cleaned_Data/Ticker_library.csv')['Ticker'].to_list()
     if download : create_SEC('./Data/Raw_Data/',tickers,"10-Q",after_date='2012-06-01')
     sec_paths = SEC_txt_path_finder()
@@ -101,6 +101,11 @@ def prepare(download=False):
     df_10Q['urls'] = url_maker(df_10Q)
     return df_10Q
 
-def createExtractor():
-    sec_api = os.getenv("sec_api_key")
-    return ExtractorApi(sec_api)
+def sec_model_df():
+    df = pd.read_csv('.\Data\Cleaned_Data\sec_all_data.csv',index_col=0)[[
+        'ticker','periodOfReport','Business','Risk Factors',
+        'Management’s Discussion and Analysis of Financial Condition and Results of Operations'
+    ]]
+    allText = df['Business'].fillna("")+df['Risk Factors'].fillna("")+df['Management’s Discussion and Analysis of Financial Condition and Results of Operations'].fillna("")
+    sec_model = pd.concat([df,allText],axis=1).rename(columns={0:"All Text"})
+    return sec_model
