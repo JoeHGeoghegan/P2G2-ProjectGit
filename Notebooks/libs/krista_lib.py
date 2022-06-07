@@ -23,7 +23,7 @@ newsapi = NewsApiClient(api_key=api_key)
 #Get news articles on certain topic based on keywords
 def get_news(keywords):  
     news_article = newsapi.get_everything(
-            q = keywords, language='en', sort_by= 'relevancy'
+            q = keywords, language='en', sort_by= 'relevancy', from = "2012-06-01", to = '2022-06-01'
     )
     return news_article
 
@@ -82,3 +82,19 @@ def tokenizer(text):
     
     
     return tokens
+
+#Takes text column and turn into list of words to iterate and analyze
+def text_splitter(df):
+    df["text splitted"] = df.text.str.lower().str.replace('[^\w\s]','').str.split()
+    df["text splitted"].transform(lambda x: Counter(x)).sum()
+    return df
+
+#Counts occurence of certain words in text to see how much a certain stock is talked about
+def word_occurence(df, word):
+    df = text_splitter(df)
+    count = 0 
+    for rows in df['text splitted']:
+        for words in rows:
+            if words == word:
+                count += 1
+    return count
