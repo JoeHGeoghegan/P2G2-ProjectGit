@@ -83,8 +83,6 @@ def get_news(keywords):
             q = keywords, 
             language='en', 
             sort_by= 'relevancy',
-            from = '2012-06-01',
-            to = '2022-06-01'
     )
     return news_article
 
@@ -160,6 +158,6 @@ def stock_picker(ticker):
             csv_df = csv_df.loc[csv_df['ticker'] == ticker]
             csv_df.drop(columns='ticker',axis=1,inplace=True)
             stock_df_list.append(csv_df)
-    all_ticker_data_df = pd.concat(stock_df_list,axis=1,join='inner')
+    all_ticker_data_df = pd.concat(stock_df_list,axis=1,join='outer')
     all_ticker_data_df.insert(0, 'ticker', ticker)
     return all_ticker_data_df.drop(columns='Unnamed: 0')
