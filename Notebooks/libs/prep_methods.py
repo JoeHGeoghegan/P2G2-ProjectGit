@@ -43,17 +43,6 @@ def keyword_filter(df, keywords):
 
     return df[filter]
 
-def keyword_filter_2(df, keywords):
-
-    filtered_list = []
-    for keyword in keywords:
-        for text in df['text']:
-            if keyword in str(text):
-                filtered_list.append(text)
-
-    filtered_df = pd.concat([df['datetime'], pd.DataFrame(filtered_list).rename(columns = {0: 'text'})], axis = 1).dropna()
-    return filtered_df
-
 def articles_vader_analyzer(df):
     
     analyzer = SentimentIntensityAnalyzer()
@@ -79,8 +68,47 @@ def daily_mean(df):
 
     return daily_mean_df
 
-def daily_mean_2(source, df):
+def process():
 
-    daily_mean_df = df.groupby(['datetime'])[[f'{source}_compound_sentiment', f'{source}_positive_sentiment', f'{source}_neutral_sentiment', f'{source}_negative_sentiment']].mean().reset_index()
+    stock_data = pd.read_csv('./Data/Cleaned_Data/stock_data.csv', parse_dates = True, infer_datetime_format = True)
+    
+    stockmarket_comments = pd.read_csv('../../sandbox/stockmarket_comments_large.csv', lineterminator = '\n', parse_dates = True, infer_datetime_format = True)
 
-    return daily_mean_df
+    stock_data['date'] = pd.to_datetime(stock_data['date'], infer_datetime_format = True, errors = 'coerce')
+    stock_data = stock_data.set_index('date')
+    stock_data.index.name = None
+
+    keywords = {
+    'NFLX': ['NFLX', 'nflx', 'Netflix', 'netflix'],
+    'FB': ['FB', 'fb', 'Facebook', 'facebook'],
+    'UBER': ['UBER', 'uber', 'Uber'],
+    'MCHP': ['MCHP', 'mchp', 'Microchip Technology'],
+    'ABNB': ['ABNB', 'abnb', 'AirBnB', 'airbnb'],
+    'FANG': ['FANG', 'fang', 'Diamondback Energy', 'diamondback energy', 'Diamondback', 'diamondback'],
+    'MRO': ['MRO', 'mro', 'Marathon Oil', 'marathon oil'],
+    'DVN': ['DVN', 'dvn', 'Devon Energy', 'devon energy'],
+    'SPWR': ['SPWR', 'spwr', 'SunPower', 'Sunpower', 'sunpower'],
+    'REGI': ['REGI', 'regi', 'Renewable Energy Group', 'renewable energy group'],
+    'MTRX': ['MTRX', 'mtrx', 'McKinsey & Company', 'McKinsey & Co', 'Mckinsey & Co', 'McKinsey', 'Mckinsey', 'mckinsey'],
+    'BLK': ['BLK', 'blk', 'BlackRock', 'Blackrock', 'blackrock'],
+    'PYPL': ['PYPL', 'pypl', 'PayPal', 'Paypal', 'paypal'],
+    'MELI': ['MELI', 'meli', 'MercadoLibre', 'Mercadolibre', 'mercadolibre'],
+    'SOFI': ['SOFI', 'sofi', 'SoFi', 'Sofi']}
+
+    for asset in keywords:
+
+        asset_prices_volume = stock_data[stock_data['ticker'] == asset].drop(columns = 'ticker')
+
+        asset_stockmarket_comments = keyword_filter(stockmarket_comments.fillna(''), keywords[asset])
+
+        asset_stockmarket_daily_sentiment = daily_mean(reddit_vader_analyzer('stockmarket', asset_stockmarket_comments))
+        asset_stockmarket_daily_sentiment['datetime'] = pd.to_datetime(asset_stockmarket_daily_sentiment['datetime'], infer_datetime_format = True, errors = 'coerce')
+        asset_stockmarket_daily_sentiment = asset_stockmarket_daily_sentiment.set_index('datetime')
+        asset_stockmarket_daily_sentiment.index = asset_stockmarket_daily_sentiment.index.date
+
+        asset_df = pd.concat([asset_stockmarket_daily_sentiment, asset_prices_volume], axis = 1)
+        asset_df.ffill(axis = 0, inplace = True)
+        asset_df.dropna(inplace = True)
+        asset_df.to_csv(f'./Data/Cleaned_Data/{asset}.csv')
+
+    return None
