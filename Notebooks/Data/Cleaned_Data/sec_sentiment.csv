@@ -1,4 +1,4 @@
-,periodOfReport,ticker,pos,neg,neu,compound
+,date,ticker,pos,neg,neu,compound
 0,2020-12-31,ABNB,0.122,0.065,0.812,1.0
 1,2021-03-31,ABNB,0.107,0.028,0.865,0.9999
 2,2021-06-30,ABNB,0.082,0.027,0.89,0.9999
