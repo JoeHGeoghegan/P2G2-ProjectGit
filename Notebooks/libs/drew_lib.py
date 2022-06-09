@@ -161,3 +161,22 @@ def stock_picker(ticker):
     all_ticker_data_df = pd.concat(stock_df_list,axis=1,join='outer')
     all_ticker_data_df.insert(0, 'ticker', ticker)
     return all_ticker_data_df.drop(columns='Unnamed: 0')
+
+
+company_keywords_dict = {
+    'NFLX': ['NFLX', 'nflx', 'Netflix', 'netflix'],
+    'FB': ['FB', 'fb', 'Facebook', 'facebook'],
+    'UBER': ['UBER', 'uber', 'Uber'],
+    'MCHP': ['MCHP', 'mchp', 'Microchip Technology'],
+    'ABNB': ['ABNB', 'abnb', 'AirBnB', 'airbnb'],
+    'FANG': ['FANG', 'fang', 'Diamondback Energy', 'diamondback energy', 'Diamondback', 'diamondback'],
+    'MRO': ['MRO', 'mro', 'Marathon Oil', 'marathon oil'],
+    'DVN': ['DVN', 'dvn', 'Devon Energy', 'devon energy'],
+    'SPWR': ['SPWR', 'spwr', 'SunPower', 'Sunpower', 'sunpower'],
+    'REGI': ['REGI', 'regi', 'Renewable Energy Group', 'renewable energy group'],
+    'MTRX': ['MTRX', 'mtrx', 'McKinsey & Company', 'McKinsey & Co', 'Mckinsey & Co', 'McKinsey', 'Mckinsey', 'mckinsey'],
+    'BLK': ['BLK', 'blk', 'BlackRock', 'Blackrock', 'blackrock'],
+    'PYPL': ['PYPL', 'pypl', 'PayPal', 'Paypal', 'paypal'],
+    'MELI': ['MELI', 'meli', 'MercadoLibre', 'Mercadolibre', 'mercadolibre'],
+    'SOFI': ['SOFI', 'sofi', 'SoFi', 'Sofi']
+}
