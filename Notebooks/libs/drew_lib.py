@@ -42,7 +42,7 @@ def make_tickers_df(ticker_list, start_date_str, end_date_str, tradeapi):
     ticker_dfs_list = [get_daily_trade_data(ticker, start_date_str, end_date_str, tradeapi) for ticker in ticker_list]
     tickers_df = pd.concat(ticker_dfs_list, axis=0, join='outer')
     tickers_df.index = tickers_df.index.date
-    tickers_df = tickers_df[['ticker','close','volume']]
+    tickers_df = tickers_df[['symbol','close','volume']]
     return tickers_df
 
 
@@ -163,7 +163,7 @@ def stock_picker(ticker):
     return all_ticker_data_df.drop(columns='Unnamed: 0')
 
 
-company_keywords_dict = {
+keywords = {
     'NFLX': ['NFLX', 'nflx', 'Netflix', 'netflix'],
     'FB': ['FB', 'fb', 'Facebook', 'facebook'],
     'UBER': ['UBER', 'uber', 'Uber'],
