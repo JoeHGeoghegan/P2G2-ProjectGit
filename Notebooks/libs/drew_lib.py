@@ -74,7 +74,7 @@ def return_bin(df):
     
     df['returns'] = df['close'].pct_change()
     df['return_bin'] = pd.cut(df['returns'], bins=bins, labels=labels)
-
+    df['return_bin'] = df['return_bin'].fillna('no gain/loss')
     return df
 
 #Get news articles on certain topic based on keywords
