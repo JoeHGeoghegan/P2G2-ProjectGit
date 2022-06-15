@@ -33,3 +33,8 @@ Finally, we will use these classifications as our entry and exit signals to our 
   - PayPal (PYPL)
   - Mercadolibre Inc (MELI)
   - SoFi (SOFI)
+
+## Usage
+Code for the LightGBM model can be found in light_gbm.ipynb and lstm_solo.ipynb, both found in the Notebooks folder.
+
+PNGs are available for our visualizations, and can be found in P2G2-ProjectGit/Notebooks/Data/Cleaned_Data/Plots/
